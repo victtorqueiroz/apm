@@ -1,0 +1,7414 @@
+{
+  "src/apm_cli/cli.py": {
+    "mi": 46.822449939838016,
+    "rank": "A"
+  },
+  "src/apm_cli/factory.py": {
+    "mi": 85.45803910050209,
+    "rank": "A"
+  },
+  "src/apm_cli/hook_contract.py": {
+    "mi": 26.15434363143331,
+    "rank": "A"
+  },
+  "src/apm_cli/config.py": {
+    "mi": 37.38331852622431,
+    "rank": "A"
+  },
+  "src/apm_cli/update_policy.py": {
+    "mi": 85.3801103421802,
+    "rank": "A"
+  },
+  "src/apm_cli/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/bootstrap_mirror.py": {
+    "mi": 43.19613281658441,
+    "rank": "A"
+  },
+  "src/apm_cli/constants.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/version.py": {
+    "mi": 77.49089405088817,
+    "rank": "A"
+  },
+  "src/apm_cli/drift.py": {
+    "mi": 49.46350986812557,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/policy_checks.py": {
+    "mi": 12.22428315727295,
+    "rank": "B"
+  },
+  "src/apm_cli/policy/inheritance.py": {
+    "mi": 46.74503163071272,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/matcher.py": {
+    "mi": 57.55146424902446,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/_gitlab.py": {
+    "mi": 38.956318158235455,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/schema.py": {
+    "mi": 55.07291080688539,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/_help_text.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/install_preflight.py": {
+    "mi": 65.7598716192211,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/project_config.py": {
+    "mi": 62.83291970525279,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/discovery.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "src/apm_cli/policy/parser.py": {
+    "mi": 18.47699173854137,
+    "rank": "B"
+  },
+  "src/apm_cli/policy/outcome_routing.py": {
+    "mi": 68.912732705068,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/_shared.py": {
+    "mi": 99.14358261248866,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/models.py": {
+    "mi": 56.605560370588265,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/_constraint_pinning.py": {
+    "mi": 62.83117827888724,
+    "rank": "A"
+  },
+  "src/apm_cli/policy/ci_checks.py": {
+    "mi": 17.678994437377227,
+    "rank": "B"
+  },
+  "src/apm_cli/registry/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/registry/client.py": {
+    "mi": 35.733690573574066,
+    "rank": "A"
+  },
+  "src/apm_cli/registry/integration.py": {
+    "mi": 68.68444035902797,
+    "rank": "A"
+  },
+  "src/apm_cli/registry/operations.py": {
+    "mi": 30.428073105598727,
+    "rank": "A"
+  },
+  "src/apm_cli/security/content_scanner.py": {
+    "mi": 51.62159047605456,
+    "rank": "A"
+  },
+  "src/apm_cli/security/audit_report.py": {
+    "mi": 33.61139330324736,
+    "rank": "A"
+  },
+  "src/apm_cli/security/executables.py": {
+    "mi": 3.8393246572722934,
+    "rank": "C"
+  },
+  "src/apm_cli/security/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/security/gate.py": {
+    "mi": 48.34807439966598,
+    "rank": "A"
+  },
+  "src/apm_cli/security/file_scanner.py": {
+    "mi": 23.495953728614978,
+    "rank": "A"
+  },
+  "src/apm_cli/security/primitive_discovery.py": {
+    "mi": 36.5081845784606,
+    "rank": "A"
+  },
+  "src/apm_cli/security/external/registry.py": {
+    "mi": 92.33889659155832,
+    "rank": "A"
+  },
+  "src/apm_cli/security/external/base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/security/external/sarif_ingest.py": {
+    "mi": 63.75720380476347,
+    "rank": "A"
+  },
+  "src/apm_cli/security/external/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/security/external/options.py": {
+    "mi": 67.7984597283442,
+    "rank": "A"
+  },
+  "src/apm_cli/security/external/skillspector.py": {
+    "mi": 65.91567869851441,
+    "rank": "A"
+  },
+  "src/apm_cli/security/external/gate.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/security/external/runner.py": {
+    "mi": 83.36979219387148,
+    "rank": "A"
+  },
+  "src/apm_cli/security/external/generic_sarif.py": {
+    "mi": 82.21418054980391,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/build_id.py": {
+    "mi": 84.66135281301811,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/gemini_formatter.py": {
+    "mi": 79.98586660972123,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/agents_compiler.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "src/apm_cli/compilation/root_context_protection.py": {
+    "mi": 45.42584170026353,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/claude_formatter.py": {
+    "mi": 53.89684974884985,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/template_builder.py": {
+    "mi": 70.2400634117146,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/context_optimizer.py": {
+    "mi": 12.111404345770177,
+    "rank": "B"
+  },
+  "src/apm_cli/compilation/constitution.py": {
+    "mi": 84.3434801898285,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/link_resolver.py": {
+    "mi": 38.50819472450388,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/injector.py": {
+    "mi": 66.27464816614793,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/constants.py": {
+    "mi": 95.43271626326303,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/footer.py": {
+    "mi": 71.75171264448839,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/managed_section.py": {
+    "mi": 76.34121999990556,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/constitution_block.py": {
+    "mi": 71.53309623976457,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/output_writer.py": {
+    "mi": 85.31415817648396,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/user_root_context.py": {
+    "mi": 50.75076503041549,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/inventory.py": {
+    "mi": 46.12363612641944,
+    "rank": "A"
+  },
+  "src/apm_cli/compilation/distributed_compiler.py": {
+    "mi": 29.76594364528365,
+    "rank": "A"
+  },
+  "src/apm_cli/runtime/registry.py": {
+    "mi": 43.82980526211932,
+    "rank": "A"
+  },
+  "src/apm_cli/runtime/base.py": {
+    "mi": 60.672193961492994,
+    "rank": "A"
+  },
+  "src/apm_cli/runtime/factory.py": {
+    "mi": 76.781762027476,
+    "rank": "A"
+  },
+  "src/apm_cli/runtime/llm_runtime.py": {
+    "mi": 76.78070928545958,
+    "rank": "A"
+  },
+  "src/apm_cli/runtime/utils.py": {
+    "mi": 81.26195716336002,
+    "rank": "A"
+  },
+  "src/apm_cli/runtime/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/runtime/codex_runtime.py": {
+    "mi": 74.5455944822665,
+    "rank": "A"
+  },
+  "src/apm_cli/runtime/copilot_runtime.py": {
+    "mi": 68.84573054120561,
+    "rank": "A"
+  },
+  "src/apm_cli/runtime/manager.py": {
+    "mi": 42.32301019831639,
+    "rank": "A"
+  },
+  "src/apm_cli/workflow/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/workflow/discovery.py": {
+    "mi": 79.63348804667534,
+    "rank": "A"
+  },
+  "src/apm_cli/workflow/parser.py": {
+    "mi": 76.03144060094428,
+    "rank": "A"
+  },
+  "src/apm_cli/workflow/runner.py": {
+    "mi": 66.78417199575165,
+    "rank": "A"
+  },
+  "src/apm_cli/output/script_formatters.py": {
+    "mi": 52.46384845354989,
+    "rank": "A"
+  },
+  "src/apm_cli/output/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/output/formatters.py": {
+    "mi": 12.678555738957911,
+    "rank": "B"
+  },
+  "src/apm_cli/output/models.py": {
+    "mi": 44.62892857331627,
+    "rank": "A"
+  },
+  "src/apm_cli/primitives/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/primitives/discovery.py": {
+    "mi": 43.80608527096645,
+    "rank": "A"
+  },
+  "src/apm_cli/primitives/parser.py": {
+    "mi": 64.41128942163948,
+    "rank": "A"
+  },
+  "src/apm_cli/primitives/models.py": {
+    "mi": 50.57168435867172,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/download_strategies.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "src/apm_cli/deps/git_semver_resolver.py": {
+    "mi": 61.316050146852376,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/dependency_graph.py": {
+    "mi": 50.668335324246264,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/github_rate_limit.py": {
+    "mi": 52.25107555605911,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/path_anchoring.py": {
+    "mi": 69.48426775756789,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/immutable_requirements.py": {
+    "mi": 36.42363488129244,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/package_validator.py": {
+    "mi": 50.15075392182552,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/git_reference_resolver.py": {
+    "mi": 28.0681351496445,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/outdated_ref_cache.py": {
+    "mi": 76.99145081567934,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/git_file_transport.py": {
+    "mi": 56.91739784733742,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/installed_package.py": {
+    "mi": 55.73010838880572,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/host_backends.py": {
+    "mi": 48.73597420301435,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/artifactory_entry.py": {
+    "mi": 70.14386418080872,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/revision_pins.py": {
+    "mi": 40.755858824803695,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/github_downloader.py": {
+    "mi": 2.6207191383724324,
+    "rank": "C"
+  },
+  "src/apm_cli/deps/clone_engine.py": {
+    "mi": 35.41394627482335,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/github_downloader_validation.py": {
+    "mi": 37.68597906810644,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/outdated_row.py": {
+    "mi": 94.91743038972957,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/shared_clone_cache.py": {
+    "mi": 61.99665477313409,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/transport_selection.py": {
+    "mi": 43.31096756122668,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/git_auth_env.py": {
+    "mi": 71.82811978994349,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/artifactory_orchestrator.py": {
+    "mi": 58.76548034133327,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/git_remote_ops.py": {
+    "mi": 59.499522403129724,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/registry_proxy.py": {
+    "mi": 60.9558786333661,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/plugin_parser.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "src/apm_cli/deps/aggregator.py": {
+    "mi": 87.02966359532059,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/lockfile.py": {
+    "mi": 1.8761827633686587,
+    "rank": "C"
+  },
+  "src/apm_cli/deps/bare_cache.py": {
+    "mi": 44.43442904559857,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/reachability.py": {
+    "mi": 60.79714919791441,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/apm_resolver.py": {
+    "mi": 12.51271270732666,
+    "rank": "B"
+  },
+  "src/apm_cli/deps/_shared.py": {
+    "mi": 41.62526860193832,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/tiered_ref_resolver.py": {
+    "mi": 41.439585442402276,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/why_walker.py": {
+    "mi": 57.95254432177124,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/verifier.py": {
+    "mi": 75.68079428530176,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/registry/resolver.py": {
+    "mi": 46.93156684417762,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/registry/auth.py": {
+    "mi": 57.31290163485482,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/registry/feature_gate.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/registry/extractor.py": {
+    "mi": 62.553557889850595,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/registry/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/registry/config_loader.py": {
+    "mi": 69.31333615877993,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/registry/client.py": {
+    "mi": 41.00436874262551,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/registry/semver.py": {
+    "mi": 75.03603067140104,
+    "rank": "A"
+  },
+  "src/apm_cli/deps/registry/outdated.py": {
+    "mi": 31.047294543609553,
+    "rank": "A"
+  },
+  "src/apm_cli/core/azure_cli.py": {
+    "mi": 57.20390327866923,
+    "rank": "A"
+  },
+  "src/apm_cli/core/output_mode.py": {
+    "mi": 46.28148872047843,
+    "rank": "A"
+  },
+  "src/apm_cli/core/script_trust.py": {
+    "mi": 56.321758487821526,
+    "rank": "A"
+  },
+  "src/apm_cli/core/deployment_state.py": {
+    "mi": 21.067378360477893,
+    "rank": "A"
+  },
+  "src/apm_cli/core/project_name.py": {
+    "mi": 61.25861986014767,
+    "rank": "A"
+  },
+  "src/apm_cli/core/docker_args.py": {
+    "mi": 72.14818004081435,
+    "rank": "A"
+  },
+  "src/apm_cli/core/auth.py": {
+    "mi": 9.504967773492217,
+    "rank": "B"
+  },
+  "src/apm_cli/core/apm_yml.py": {
+    "mi": 60.305036345020326,
+    "rank": "A"
+  },
+  "src/apm_cli/core/command_logger.py": {
+    "mi": 20.98618190725676,
+    "rank": "A"
+  },
+  "src/apm_cli/core/script_runner.py": {
+    "mi": 22.443308411297586,
+    "rank": "A"
+  },
+  "src/apm_cli/core/tls_trust.py": {
+    "mi": 55.6726621585977,
+    "rank": "A"
+  },
+  "src/apm_cli/core/null_logger.py": {
+    "mi": 83.79576147489725,
+    "rank": "A"
+  },
+  "src/apm_cli/core/experimental.py": {
+    "mi": 68.37207870909893,
+    "rank": "A"
+  },
+  "src/apm_cli/core/lifecycle_scripts.py": {
+    "mi": 39.81258897748633,
+    "rank": "A"
+  },
+  "src/apm_cli/core/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/core/target_catalog.py": {
+    "mi": 39.12578623711008,
+    "rank": "A"
+  },
+  "src/apm_cli/core/install_audit.py": {
+    "mi": 67.51743879873626,
+    "rank": "A"
+  },
+  "src/apm_cli/core/safe_installer.py": {
+    "mi": 58.83970824219676,
+    "rank": "A"
+  },
+  "src/apm_cli/core/plugin_manifest.py": {
+    "mi": 56.79594875485713,
+    "rank": "A"
+  },
+  "src/apm_cli/core/target_detection.py": {
+    "mi": 20.256746247499265,
+    "rank": "A"
+  },
+  "src/apm_cli/core/script_executors.py": {
+    "mi": 16.50225994160106,
+    "rank": "B"
+  },
+  "src/apm_cli/core/scope.py": {
+    "mi": 54.49191669490075,
+    "rank": "A"
+  },
+  "src/apm_cli/core/build_orchestrator.py": {
+    "mi": 32.06302279664247,
+    "rank": "A"
+  },
+  "src/apm_cli/core/conflict_detector.py": {
+    "mi": 62.78819544991275,
+    "rank": "A"
+  },
+  "src/apm_cli/core/errors.py": {
+    "mi": 75.59816748575109,
+    "rank": "A"
+  },
+  "src/apm_cli/core/deployment_ledger.py": {
+    "mi": 0.7082715954055608,
+    "rank": "C"
+  },
+  "src/apm_cli/core/operations.py": {
+    "mi": 78.29859077376848,
+    "rank": "A"
+  },
+  "src/apm_cli/core/host_providers.py": {
+    "mi": 38.20274414942512,
+    "rank": "A"
+  },
+  "src/apm_cli/core/token_manager.py": {
+    "mi": 44.771086451531474,
+    "rank": "A"
+  },
+  "src/apm_cli/core/_child_tls/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/core/_child_tls/_apm_tls_bootstrap.py": {
+    "mi": 73.90881929904985,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/approve.py": {
+    "mi": 25.529455063809273,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/policy.py": {
+    "mi": 46.55737372338553,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/prune.py": {
+    "mi": 32.787456873966605,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/update.py": {
+    "mi": 30.170094013952173,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/auth.py": {
+    "mi": 49.964708433498316,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/_apm_yml_writer.py": {
+    "mi": 68.36960062727195,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/install.py": {
+    "mi": 3.352305415179472,
+    "rank": "C"
+  },
+  "src/apm_cli/commands/targets.py": {
+    "mi": 71.36143460764633,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/mcp.py": {
+    "mi": 40.12870431721888,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/experimental.py": {
+    "mi": 40.58659873889236,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/config.py": {
+    "mi": 16.001918880506597,
+    "rank": "B"
+  },
+  "src/apm_cli/commands/run.py": {
+    "mi": 50.612031959876724,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/self_update.py": {
+    "mi": 42.673712861363754,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/publish.py": {
+    "mi": 52.4377992006264,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/list_cmd.py": {
+    "mi": 65.51438664433854,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/cache.py": {
+    "mi": 52.26687118279149,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/lifecycle.py": {
+    "mi": 33.97235405679363,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/find.py": {
+    "mi": 58.58868176119455,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/discover.py": {
+    "mi": 49.90070159264932,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/_helpers.py": {
+    "mi": 37.09693333878232,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/init.py": {
+    "mi": 21.9832558169973,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/doctor.py": {
+    "mi": 99.36566718291819,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/audit.py": {
+    "mi": 0.43031892284928375,
+    "rank": "C"
+  },
+  "src/apm_cli/commands/outdated.py": {
+    "mi": 22.59972415354618,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/lock.py": {
+    "mi": 60.38646705483715,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/runtime.py": {
+    "mi": 53.18198594875971,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/view.py": {
+    "mi": 25.093702421468375,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/pack.py": {
+    "mi": 9.830594660420758,
+    "rank": "B"
+  },
+  "src/apm_cli/commands/compile/watcher.py": {
+    "mi": 47.47679909046702,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/compile/cli.py": {
+    "mi": 4.0228138082207625,
+    "rank": "C"
+  },
+  "src/apm_cli/commands/compile/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/deps/why.py": {
+    "mi": 61.76287501557666,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/deps/_utils.py": {
+    "mi": 47.13916124041249,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/deps/cli.py": {
+    "mi": 5.299938147930875,
+    "rank": "C"
+  },
+  "src/apm_cli/commands/deps/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/plugin/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/plugin/init.py": {
+    "mi": 87.45958654367887,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/marketplace/validate.py": {
+    "mi": 54.71530155915995,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/marketplace/__init__.py": {
+    "mi": 5.199125879565373,
+    "rank": "C"
+  },
+  "src/apm_cli/commands/marketplace/migrate.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/marketplace/init.py": {
+    "mi": 50.26902964187351,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/marketplace/doctor.py": {
+    "mi": 41.29955050792675,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/marketplace/audit.py": {
+    "mi": 50.94123715259905,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/marketplace/outdated.py": {
+    "mi": 54.07218311394906,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/marketplace/check.py": {
+    "mi": 50.77032444618111,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/marketplace/plugin/set.py": {
+    "mi": 51.44850127483058,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/marketplace/plugin/__init__.py": {
+    "mi": 51.19734973482433,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/marketplace/plugin/remove.py": {
+    "mi": 69.60152384810345,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/marketplace/plugin/add.py": {
+    "mi": 68.58451082171628,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/uninstall/cli.py": {
+    "mi": 28.335045130740124,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/uninstall/engine.py": {
+    "mi": 0.822938583656298,
+    "rank": "C"
+  },
+  "src/apm_cli/commands/uninstall/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/commands/uninstall/lockfile_state.py": {
+    "mi": 52.7122063497299,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/base_integrator.py": {
+    "mi": 23.188213501312127,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/opencode_frontmatter.py": {
+    "mi": 78.19989710566016,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/_hook_dropped_targets.py": {
+    "mi": 76.0616779430587,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/mcp_config_view.py": {
+    "mi": 30.506524075225585,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/copilot_app_workflow_integrator.py": {
+    "mi": 48.28728838930587,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/hook_ir.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/copilot_cowork_paths.py": {
+    "mi": 67.051355264619,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/mcp_integrator_install.py": {
+    "mi": 2.113852496430969,
+    "rank": "C"
+  },
+  "src/apm_cli/integration/targets.py": {
+    "mi": 29.6560238368656,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/copilot_app_db.py": {
+    "mi": 49.26939233061962,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/hook_reintegration.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/hook_command_paths.py": {
+    "mi": 79.62209663431142,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/skill_support.py": {
+    "mi": 41.241887071858876,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/utils.py": {
+    "mi": 77.10237577751687,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/canvas_integrator.py": {
+    "mi": 43.921498312817235,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/prompt_integrator.py": {
+    "mi": 60.50537615017235,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/hook_command_warnings.py": {
+    "mi": 73.32365793579612,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/agent_integrator.py": {
+    "mi": 22.770452539985502,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/mcp_integrator.py": {
+    "mi": 2.806012582660845,
+    "rank": "C"
+  },
+  "src/apm_cli/integration/copilot_app_ws.py": {
+    "mi": 45.038140867448774,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/kiro_hook_integrator.py": {
+    "mi": 39.315426551456675,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/copilot_app_project.py": {
+    "mi": 59.01397140954691,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/hook_native_formats.py": {
+    "mi": 17.831569453805248,
+    "rank": "B"
+  },
+  "src/apm_cli/integration/hook_bundle.py": {
+    "mi": 37.814803638272394,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/hook_integrator.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "src/apm_cli/integration/instruction_integrator.py": {
+    "mi": 33.84305394229499,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/lsp_integrator.py": {
+    "mi": 2.6449545346605934,
+    "rank": "C"
+  },
+  "src/apm_cli/integration/hook_cursor_preflight.py": {
+    "mi": 35.21469037142828,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/skill_transformer.py": {
+    "mi": 76.48588717872447,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/hook_file_routing.py": {
+    "mi": 46.348731508551516,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/cleanup.py": {
+    "mi": 51.4318945320575,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/coverage.py": {
+    "mi": 83.19930488943542,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/_shared.py": {
+    "mi": 68.00974964823914,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/skill_package_routing.py": {
+    "mi": 61.881203820657106,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/hook_source_selection.py": {
+    "mi": 33.04782041240571,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/command_integrator.py": {
+    "mi": 41.511971487052996,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/skill_integrator.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "src/apm_cli/integration/hook_ownership.py": {
+    "mi": 21.873985954543937,
+    "rank": "A"
+  },
+  "src/apm_cli/integration/dispatch.py": {
+    "mi": 81.23375362057395,
+    "rank": "A"
+  },
+  "src/apm_cli/copilot_plugins/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/copilot_plugins/capability.py": {
+    "mi": 68.29513905600386,
+    "rank": "A"
+  },
+  "src/apm_cli/copilot_plugins/registrar.py": {
+    "mi": 32.74970771139352,
+    "rank": "A"
+  },
+  "src/apm_cli/copilot_plugins/constants.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/copilot_plugins/settings.py": {
+    "mi": 46.35527298143065,
+    "rank": "A"
+  },
+  "src/apm_cli/copilot_plugins/catalog.py": {
+    "mi": 68.06447863686796,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/package_manager/base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/package_manager/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/package_manager/default_manager.py": {
+    "mi": 78.18843029154564,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/vscode.py": {
+    "mi": 15.528037804720102,
+    "rank": "B"
+  },
+  "src/apm_cli/adapters/client/cursor.py": {
+    "mi": 58.917276639727746,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/base.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "src/apm_cli/adapters/client/antigravity.py": {
+    "mi": 56.77368239612367,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/hermes.py": {
+    "mi": 64.71635470730281,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/_mcp_runtime_args.py": {
+    "mi": 62.58662090766708,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/codex.py": {
+    "mi": 36.88520769757211,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/copilot.py": {
+    "mi": 21.840591707498824,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/gemini.py": {
+    "mi": 51.52605541872515,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/intellij.py": {
+    "mi": 27.381728748516466,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/claude.py": {
+    "mi": 48.71210215017015,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/windsurf.py": {
+    "mi": 62.53663076894037,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/kiro.py": {
+    "mi": 42.41514568947566,
+    "rank": "A"
+  },
+  "src/apm_cli/adapters/client/opencode.py": {
+    "mi": 67.59220773649616,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/perf_stats.py": {
+    "mi": 67.81866325765239,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/console.py": {
+    "mi": 56.64844181482308,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/subprocess_env.py": {
+    "mi": 59.192742456634974,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/diagnostics.py": {
+    "mi": 26.301119211971876,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/git_sparse.py": {
+    "mi": 60.824141123961944,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/helpers.py": {
+    "mi": 71.04578148459964,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/file_ops.py": {
+    "mi": 62.28720963652937,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/short_sha.py": {
+    "mi": 72.93468628376854,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/exclude.py": {
+    "mi": 62.013014870367456,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/guards.py": {
+    "mi": 68.40783439688875,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/atomic_io.py": {
+    "mi": 73.81432561260452,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/version_checker.py": {
+    "mi": 45.00673786694843,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/github_host.py": {
+    "mi": 27.223075382161575,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/reflink.py": {
+    "mi": 59.900079353799164,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/paths.py": {
+    "mi": 91.13046841999001,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/staging_guard.py": {
+    "mi": 60.101405795205686,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/net.py": {
+    "mi": 74.93941354990024,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/patterns.py": {
+    "mi": 45.08558183569813,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/normalization.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/content_hash.py": {
+    "mi": 54.751477717453554,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/install_tui.py": {
+    "mi": 52.433319682701345,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/archive.py": {
+    "mi": 29.468568220298188,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/git_env.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "src/apm_cli/utils/path_security.py": {
+    "mi": 59.561290724979266,
+    "rank": "A"
+  },
+  "src/apm_cli/utils/yaml_io.py": {
+    "mi": 50.288187879857716,
+    "rank": "A"
+  },
+  "src/apm_cli/models/validation.py": {
+    "mi": 35.74856402328803,
+    "rank": "A"
+  },
+  "src/apm_cli/models/format_detection.py": {
+    "mi": 49.68027787746304,
+    "rank": "A"
+  },
+  "src/apm_cli/models/apm_package.py": {
+    "mi": 14.220176601533073,
+    "rank": "B"
+  },
+  "src/apm_cli/models/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/models/results.py": {
+    "mi": 66.08319357474548,
+    "rank": "A"
+  },
+  "src/apm_cli/models/manifest_contract.py": {
+    "mi": 63.69150300280243,
+    "rank": "A"
+  },
+  "src/apm_cli/models/plugin.py": {
+    "mi": 71.05167849186532,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/object_fields.py": {
+    "mi": 43.99241703368498,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/subsets.py": {
+    "mi": 49.21451746403481,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/host_virtual.py": {
+    "mi": 21.0586537389442,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/provider_coordinates.py": {
+    "mi": 52.94606948912735,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/mcp.py": {
+    "mi": 38.29186231643512,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/materialization.py": {
+    "mi": 17.61292628738368,
+    "rank": "B"
+  },
+  "src/apm_cli/models/dependency/lsp.py": {
+    "mi": 47.98086590356226,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/types.py": {
+    "mi": 78.29847668870651,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/registry_entry.py": {
+    "mi": 68.01624393413516,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/identity.py": {
+    "mi": 59.40997253385623,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/selection.py": {
+    "mi": 58.035740714572555,
+    "rank": "A"
+  },
+  "src/apm_cli/models/dependency/reference.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "src/apm_cli/cache/integrity.py": {
+    "mi": 71.15972355515609,
+    "rank": "A"
+  },
+  "src/apm_cli/cache/locking.py": {
+    "mi": 61.27274361315754,
+    "rank": "A"
+  },
+  "src/apm_cli/cache/git_cache.py": {
+    "mi": 32.231339638154374,
+    "rank": "A"
+  },
+  "src/apm_cli/cache/paths.py": {
+    "mi": 69.19358973130285,
+    "rank": "A"
+  },
+  "src/apm_cli/cache/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/cache/url_normalize.py": {
+    "mi": 67.99639958399447,
+    "rank": "A"
+  },
+  "src/apm_cli/cache/http_cache.py": {
+    "mi": 51.169866298743166,
+    "rank": "A"
+  },
+  "src/apm_cli/cache/cleanup.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/agent_plugins/validation.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "src/apm_cli/agent_plugins/loader.py": {
+    "mi": 3.9718404719522487,
+    "rank": "C"
+  },
+  "src/apm_cli/agent_plugins/projection.py": {
+    "mi": 78.1426318012001,
+    "rank": "A"
+  },
+  "src/apm_cli/agent_plugins/assets.py": {
+    "mi": 13.928092597026252,
+    "rank": "B"
+  },
+  "src/apm_cli/agent_plugins/__init__.py": {
+    "mi": 69.33443681312195,
+    "rank": "A"
+  },
+  "src/apm_cli/agent_plugins/constants.py": {
+    "mi": 65.46808727917643,
+    "rank": "A"
+  },
+  "src/apm_cli/agent_plugins/io.py": {
+    "mi": 40.15422191111871,
+    "rank": "A"
+  },
+  "src/apm_cli/agent_plugins/ir.py": {
+    "mi": 31.39383228688781,
+    "rank": "A"
+  },
+  "src/apm_cli/agent_plugins/errors.py": {
+    "mi": 67.54483421697404,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/version_check.py": {
+    "mi": 42.88189514461189,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/registry.py": {
+    "mi": 57.45539048327651,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/diagnostics.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/version_resolver.py": {
+    "mi": 74.71849319751,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/yml_editor.py": {
+    "mi": 52.999423658741904,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/ref_resolver.py": {
+    "mi": 38.399147748299164,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/output_profiles.py": {
+    "mi": 64.7871286976366,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/git_stderr.py": {
+    "mi": 64.979409470391,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/resolver.py": {
+    "mi": 14.611374607155897,
+    "rank": "B"
+  },
+  "src/apm_cli/marketplace/_git_utils.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/auth_helpers.py": {
+    "mi": 83.01034132616549,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/source_identity.py": {
+    "mi": 35.02406396741154,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/output_mappers.py": {
+    "mi": 31.19539938448027,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/version_pins.py": {
+    "mi": 73.82070844350385,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/client.py": {
+    "mi": 22.032759680795262,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/validator.py": {
+    "mi": 72.20990292109765,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/_io.py": {
+    "mi": 93.68790299143244,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/drift_check.py": {
+    "mi": 50.209615453443945,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/yml_schema.py": {
+    "mi": 12.967056132634319,
+    "rank": "B"
+  },
+  "src/apm_cli/marketplace/semver.py": {
+    "mi": 56.972367412414286,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/errors.py": {
+    "mi": 71.09708538582893,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/shadow_detector.py": {
+    "mi": 88.55573507474233,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/builder.py": {
+    "mi": 1.2189809828547076,
+    "rank": "C"
+  },
+  "src/apm_cli/marketplace/_shared.py": {
+    "mi": 89.96122938467364,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/audit.py": {
+    "mi": 48.76895778193719,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/init_template.py": {
+    "mi": 91.49547747106767,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/tag_pattern.py": {
+    "mi": 67.71253967404691,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/models.py": {
+    "mi": 25.941475207915744,
+    "rank": "A"
+  },
+  "src/apm_cli/marketplace/migration.py": {
+    "mi": 59.13636125662415,
+    "rank": "A"
+  },
+  "src/apm_cli/install/validation.py": {
+    "mi": 26.11185197221485,
+    "rank": "A"
+  },
+  "src/apm_cli/install/target_hints.py": {
+    "mi": 55.192170455496985,
+    "rank": "A"
+  },
+  "src/apm_cli/install/native_plugin_admission.py": {
+    "mi": 64.59136173090266,
+    "rank": "A"
+  },
+  "src/apm_cli/install/source_helpers.py": {
+    "mi": 56.1445326418346,
+    "rank": "A"
+  },
+  "src/apm_cli/install/argv.py": {
+    "mi": 73.98365295121083,
+    "rank": "A"
+  },
+  "src/apm_cli/install/primitive_classification.py": {
+    "mi": 49.1958754425623,
+    "rank": "A"
+  },
+  "src/apm_cli/install/integrity.py": {
+    "mi": 75.59847086664153,
+    "rank": "A"
+  },
+  "src/apm_cli/install/drift_render.py": {
+    "mi": 48.87954661587407,
+    "rank": "A"
+  },
+  "src/apm_cli/install/local_bundle_handler.py": {
+    "mi": 28.040854047033676,
+    "rank": "A"
+  },
+  "src/apm_cli/install/locking.py": {
+    "mi": 43.15686671422774,
+    "rank": "A"
+  },
+  "src/apm_cli/install/package_resolution.py": {
+    "mi": 45.06034380211602,
+    "rank": "A"
+  },
+  "src/apm_cli/install/services.py": {
+    "mi": 20.951996465870785,
+    "rank": "A"
+  },
+  "src/apm_cli/install/audit_target_roots.py": {
+    "mi": 46.673966927114414,
+    "rank": "A"
+  },
+  "src/apm_cli/install/exec_gate.py": {
+    "mi": 50.2221476139145,
+    "rank": "A"
+  },
+  "src/apm_cli/install/root_redirect.py": {
+    "mi": 81.75516756474997,
+    "rank": "A"
+  },
+  "src/apm_cli/install/context.py": {
+    "mi": 45.97965477920023,
+    "rank": "A"
+  },
+  "src/apm_cli/install/audit_replay.py": {
+    "mi": 60.06444570505176,
+    "rank": "A"
+  },
+  "src/apm_cli/install/package_selection.py": {
+    "mi": 55.308468705299504,
+    "rank": "A"
+  },
+  "src/apm_cli/install/manifest_reconcile.py": {
+    "mi": 19.204567820664177,
+    "rank": "A"
+  },
+  "src/apm_cli/install/transaction.py": {
+    "mi": 32.62341464444188,
+    "rank": "A"
+  },
+  "src/apm_cli/install/target_warnings.py": {
+    "mi": 51.62820921923175,
+    "rank": "A"
+  },
+  "src/apm_cli/install/skill_path_migration.py": {
+    "mi": 62.49816140139722,
+    "rank": "A"
+  },
+  "src/apm_cli/install/registry_wiring.py": {
+    "mi": 70.42482640049637,
+    "rank": "A"
+  },
+  "src/apm_cli/install/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/install/template.py": {
+    "mi": 44.042962340444916,
+    "rank": "A"
+  },
+  "src/apm_cli/install/sources.py": {
+    "mi": 18.831861948013533,
+    "rank": "B"
+  },
+  "src/apm_cli/install/finalization.py": {
+    "mi": 71.44842835188814,
+    "rank": "A"
+  },
+  "src/apm_cli/install/plan.py": {
+    "mi": 43.48768234022496,
+    "rank": "A"
+  },
+  "src/apm_cli/install/artifactory_resolver.py": {
+    "mi": 57.03821731479671,
+    "rank": "A"
+  },
+  "src/apm_cli/install/cache_pin.py": {
+    "mi": 64.15215152097616,
+    "rank": "A"
+  },
+  "src/apm_cli/install/local_bundle_paths.py": {
+    "mi": 28.014814074364104,
+    "rank": "A"
+  },
+  "src/apm_cli/install/insecure_policy.py": {
+    "mi": 53.511125730736964,
+    "rank": "A"
+  },
+  "src/apm_cli/install/gitlab_resolver.py": {
+    "mi": 64.48914106122758,
+    "rank": "A"
+  },
+  "src/apm_cli/install/manifest_helpers.py": {
+    "mi": 46.01557170039348,
+    "rank": "A"
+  },
+  "src/apm_cli/install/resolution_staging.py": {
+    "mi": 21.359321310027315,
+    "rank": "A"
+  },
+  "src/apm_cli/install/summary.py": {
+    "mi": 76.64956740915945,
+    "rank": "A"
+  },
+  "src/apm_cli/install/target_filter.py": {
+    "mi": 50.266265473591595,
+    "rank": "A"
+  },
+  "src/apm_cli/install/request.py": {
+    "mi": 72.09631188553655,
+    "rank": "A"
+  },
+  "src/apm_cli/install/dry_run_plan.py": {
+    "mi": 40.10710001785768,
+    "rank": "A"
+  },
+  "src/apm_cli/install/errors.py": {
+    "mi": 64.92692070162235,
+    "rank": "A"
+  },
+  "src/apm_cli/install/pipeline.py": {
+    "mi": 35.49302952926731,
+    "rank": "A"
+  },
+  "src/apm_cli/install/legacy_plugin_compat.py": {
+    "mi": 26.639321026497022,
+    "rank": "A"
+  },
+  "src/apm_cli/install/service.py": {
+    "mi": 52.864348579,
+    "rank": "A"
+  },
+  "src/apm_cli/install/outcome.py": {
+    "mi": 36.75834157558607,
+    "rank": "A"
+  },
+  "src/apm_cli/install/service_integration.py": {
+    "mi": 42.45581306409946,
+    "rank": "A"
+  },
+  "src/apm_cli/install/drift.py": {
+    "mi": 28.200809290193234,
+    "rank": "A"
+  },
+  "src/apm_cli/install/deployable_source_plan.py": {
+    "mi": 29.901998842513077,
+    "rank": "A"
+  },
+  "src/apm_cli/install/deployed_paths.py": {
+    "mi": 46.17155585001068,
+    "rank": "A"
+  },
+  "src/apm_cli/install/mcp/registry.py": {
+    "mi": 58.484169950805985,
+    "rank": "A"
+  },
+  "src/apm_cli/install/mcp/entry.py": {
+    "mi": 81.74877227770178,
+    "rank": "A"
+  },
+  "src/apm_cli/install/mcp/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/install/mcp/conflicts.py": {
+    "mi": 73.52635253979994,
+    "rank": "A"
+  },
+  "src/apm_cli/install/mcp/ownership.py": {
+    "mi": 43.886804449259685,
+    "rank": "A"
+  },
+  "src/apm_cli/install/mcp/args.py": {
+    "mi": 88.38271270398454,
+    "rank": "A"
+  },
+  "src/apm_cli/install/mcp/warnings.py": {
+    "mi": 67.49540772171801,
+    "rank": "A"
+  },
+  "src/apm_cli/install/mcp/writer.py": {
+    "mi": 62.00956144834698,
+    "rank": "A"
+  },
+  "src/apm_cli/install/mcp/integration.py": {
+    "mi": 52.728418665326465,
+    "rank": "A"
+  },
+  "src/apm_cli/install/mcp/command.py": {
+    "mi": 50.68376043798281,
+    "rank": "A"
+  },
+  "src/apm_cli/install/lsp/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/install/lsp/integration.py": {
+    "mi": 36.649450282985576,
+    "rank": "A"
+  },
+  "src/apm_cli/install/heals/buggy_lockfile_recovery.py": {
+    "mi": 82.63673272718613,
+    "rank": "A"
+  },
+  "src/apm_cli/install/heals/base.py": {
+    "mi": 67.78502344801372,
+    "rank": "A"
+  },
+  "src/apm_cli/install/heals/branch_ref_drift.py": {
+    "mi": 80.38358862014043,
+    "rank": "A"
+  },
+  "src/apm_cli/install/heals/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/_redownload.py": {
+    "mi": 75.75479307454044,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/targets.py": {
+    "mi": 34.07064487362947,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/post_deps_local.py": {
+    "mi": 74.3406702761583,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/local_content.py": {
+    "mi": 62.26745921846352,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/heal.py": {
+    "mi": 84.4493376944262,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/policy_target_check.py": {
+    "mi": 73.70423111556184,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/copilot_plugins.py": {
+    "mi": 66.09350994748478,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/download.py": {
+    "mi": 65.95245672818125,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/resolve.py": {
+    "mi": 36.242993647600095,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/integrate.py": {
+    "mi": 34.845790995747585,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/policy_gate.py": {
+    "mi": 67.92574462410688,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/lockfile.py": {
+    "mi": 33.84204179152509,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/finalize.py": {
+    "mi": 51.33674006534277,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/cleanup.py": {
+    "mi": 64.70786714906748,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/_skip_logic.py": {
+    "mi": 61.09807107135914,
+    "rank": "A"
+  },
+  "src/apm_cli/install/phases/audit.py": {
+    "mi": 71.46586178966655,
+    "rank": "A"
+  },
+  "src/apm_cli/install/helpers/ref_seed.py": {
+    "mi": 77.99476823539773,
+    "rank": "A"
+  },
+  "src/apm_cli/install/helpers/ref_reuse.py": {
+    "mi": 38.39930657892001,
+    "rank": "A"
+  },
+  "src/apm_cli/install/helpers/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/install/helpers/security_scan.py": {
+    "mi": 87.08706313606585,
+    "rank": "A"
+  },
+  "src/apm_cli/install/helpers/no_work.py": {
+    "mi": 58.18501155057596,
+    "rank": "A"
+  },
+  "src/apm_cli/install/presentation/dry_run.py": {
+    "mi": 63.47113680913676,
+    "rank": "A"
+  },
+  "src/apm_cli/install/presentation/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/export/declared_license.py": {
+    "mi": 79.1077328153784,
+    "rank": "A"
+  },
+  "src/apm_cli/export/authoring.py": {
+    "mi": 91.97390481997701,
+    "rank": "A"
+  },
+  "src/apm_cli/export/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/export/formats.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/export/sbom.py": {
+    "mi": 61.61190743059582,
+    "rank": "A"
+  },
+  "src/apm_cli/export/spdx.py": {
+    "mi": 60.19985793920062,
+    "rank": "A"
+  },
+  "src/apm_cli/export/spdx_data.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/export/purl.py": {
+    "mi": 68.28711258429936,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/packer.py": {
+    "mi": 51.71139511922672,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/unpacker.py": {
+    "mi": 48.06250712358122,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/reproducible_archive.py": {
+    "mi": 47.90466320146594,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/claude_plugin_exporter.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/plugin_layout.py": {
+    "mi": 53.72828875460135,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/formats.py": {
+    "mi": 58.55176542017531,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/plugin_exporter.py": {
+    "mi": 13.348639966386584,
+    "rank": "B"
+  },
+  "src/apm_cli/bundle/attest.py": {
+    "mi": 93.36281626131021,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/agent_plugin_exporter.py": {
+    "mi": 22.602111776755365,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/local_bundle.py": {
+    "mi": 36.33983513540621,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/lockfile_enrichment.py": {
+    "mi": 61.17120410621373,
+    "rank": "A"
+  },
+  "src/apm_cli/bundle/export_common.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/adopt/materialize.py": {
+    "mi": 59.1012987922396,
+    "rank": "A"
+  },
+  "src/apm_cli/adopt/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "src/apm_cli/adopt/manifest_edit.py": {
+    "mi": 47.16434131372537,
+    "rank": "A"
+  },
+  "src/apm_cli/adopt/safety.py": {
+    "mi": 50.830309482168744,
+    "rank": "A"
+  },
+  "src/apm_cli/adopt/discovery.py": {
+    "mi": 27.246972807480724,
+    "rank": "A"
+  },
+  "src/apm_cli/adopt/render.py": {
+    "mi": 56.35853350264226,
+    "rank": "A"
+  },
+  "tests/noninteractive_workflow_test.py": {
+    "mi": 85.79201789355716,
+    "rank": "A"
+  },
+  "tests/test_lockfile.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/test_empty_string_and_defaults.py": {
+    "mi": 49.463291299829635,
+    "rank": "A"
+  },
+  "tests/workflow_contracts.py": {
+    "mi": 40.25812247161745,
+    "rank": "A"
+  },
+  "tests/test_codex_empty_string_and_defaults.py": {
+    "mi": 53.606422095346645,
+    "rank": "A"
+  },
+  "tests/test_token_manager.py": {
+    "mi": 12.209294385398442,
+    "rank": "B"
+  },
+  "tests/test_distributed_compilation.py": {
+    "mi": 42.17012860593932,
+    "rank": "A"
+  },
+  "tests/manual_workflow_script.py": {
+    "mi": 84.53434563934783,
+    "rank": "A"
+  },
+  "tests/test_collision_integration.py": {
+    "mi": 57.962609892754074,
+    "rank": "A"
+  },
+  "tests/test_runnable_prompts.py": {
+    "mi": 30.587754016165416,
+    "rank": "A"
+  },
+  "tests/test_virtual_package_multi_install.py": {
+    "mi": 53.06588459632195,
+    "rank": "A"
+  },
+  "tests/test_gitlab_git_transport.py": {
+    "mi": 25.827906392258708,
+    "rank": "A"
+  },
+  "tests/test_apm_package_models.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/test_github_downloader_token_precedence.py": {
+    "mi": 55.457486709928425,
+    "rank": "A"
+  },
+  "tests/test_runtime_manager_token_precedence.py": {
+    "mi": 60.404045967631355,
+    "rank": "A"
+  },
+  "tests/test_github_downloader.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/test_enhanced_discovery.py": {
+    "mi": 38.91718240782449,
+    "rank": "A"
+  },
+  "tests/test_console.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/conftest.py": {
+    "mi": 71.84557645985453,
+    "rank": "A"
+  },
+  "tests/test_apm_resolver.py": {
+    "mi": 1.4835234573355245,
+    "rank": "C"
+  },
+  "tests/test_codex_docker_args_fix.py": {
+    "mi": 39.96014531581399,
+    "rank": "A"
+  },
+  "tests/basic_workflow_test.py": {
+    "mi": 72.93409949247867,
+    "rank": "A"
+  },
+  "tests/perf/test_architecture_linter_scaling.py": {
+    "mi": 37.55030177142495,
+    "rank": "A"
+  },
+  "tests/perf/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/perf/test_install_scenarios.py": {
+    "mi": 64.24104543067004,
+    "rank": "A"
+  },
+  "tests/perf/conftest.py": {
+    "mi": 56.760928442394025,
+    "rank": "A"
+  },
+  "tests/benchmarks/test_audit_benchmarks.py": {
+    "mi": 44.87963345650607,
+    "rank": "A"
+  },
+  "tests/benchmarks/test_lookup_and_cache_benchmarks.py": {
+    "mi": 59.87090186944949,
+    "rank": "A"
+  },
+  "tests/benchmarks/test_git_and_compiler_benchmarks.py": {
+    "mi": 27.045433836998647,
+    "rank": "A"
+  },
+  "tests/benchmarks/test_install_hot_paths.py": {
+    "mi": 45.3563083930138,
+    "rank": "A"
+  },
+  "tests/benchmarks/test_perf_benchmarks.py": {
+    "mi": 56.93293969670293,
+    "rank": "A"
+  },
+  "tests/benchmarks/test_compilation_hot_paths.py": {
+    "mi": 31.213874734244214,
+    "rank": "A"
+  },
+  "tests/benchmarks/run_baseline.py": {
+    "mi": 54.253647851657526,
+    "rank": "A"
+  },
+  "tests/benchmarks/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/benchmarks/test_security_and_resolver_benchmarks.py": {
+    "mi": 25.361571678613032,
+    "rank": "A"
+  },
+  "tests/benchmarks/test_scaling_guards.py": {
+    "mi": 32.923334039448,
+    "rank": "A"
+  },
+  "tests/benchmarks/test_tiered_resolver_benchmarks.py": {
+    "mi": 64.38410729790304,
+    "rank": "A"
+  },
+  "tests/red_team/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/red_team/parser/test_toplevel_shape.py": {
+    "mi": 72.33749100552144,
+    "rank": "A"
+  },
+  "tests/red_team/parser/test_nonascii_control.py": {
+    "mi": 76.77433306131674,
+    "rank": "A"
+  },
+  "tests/red_team/parser/test_resolve_cwd.py": {
+    "mi": 67.07082750162772,
+    "rank": "A"
+  },
+  "tests/red_team/parser/test_validate_cli.py": {
+    "mi": 75.34419591549207,
+    "rank": "A"
+  },
+  "tests/red_team/parser/test_policy_json_chaos.py": {
+    "mi": 54.060210355830264,
+    "rank": "A"
+  },
+  "tests/red_team/parser/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/red_team/parser/test_yaml_bomb.py": {
+    "mi": 61.92125938535235,
+    "rank": "A"
+  },
+  "tests/red_team/parser/test_duplicate_keys.py": {
+    "mi": 77.50180801108347,
+    "rank": "A"
+  },
+  "tests/red_team/parser/test_huge_manifest.py": {
+    "mi": 65.92463202023801,
+    "rank": "A"
+  },
+  "tests/red_team/parser/test_timeout_subprocess.py": {
+    "mi": 70.06306741952828,
+    "rank": "A"
+  },
+  "tests/red_team/parser/conftest.py": {
+    "mi": 80.82777424188775,
+    "rank": "A"
+  },
+  "tests/red_team/parser/test_malformed_shapes.py": {
+    "mi": 58.37357078000932,
+    "rank": "A"
+  },
+  "tests/red_team/parser/fixtures/_gen_bombs.py": {
+    "mi": 86.611325330632,
+    "rank": "A"
+  },
+  "tests/red_team/trust/test_kill_switch.py": {
+    "mi": 73.55207852300671,
+    "rank": "A"
+  },
+  "tests/red_team/trust/test_hash_domain_completeness.py": {
+    "mi": 70.70103121709312,
+    "rank": "A"
+  },
+  "tests/red_team/trust/test_tier_confusion.py": {
+    "mi": 75.48509765206813,
+    "rank": "A"
+  },
+  "tests/red_team/trust/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/red_team/trust/test_trust_store_integrity.py": {
+    "mi": 73.0723721623072,
+    "rank": "A"
+  },
+  "tests/red_team/trust/test_toctou_read_swap.py": {
+    "mi": 70.34968467999751,
+    "rank": "A"
+  },
+  "tests/red_team/trust/conftest.py": {
+    "mi": 88.0539325052597,
+    "rank": "A"
+  },
+  "tests/red_team/trust/test_canonicalization.py": {
+    "mi": 73.63383054701066,
+    "rank": "A"
+  },
+  "tests/red_team/trust/test_path_identity.py": {
+    "mi": 65.8908510461572,
+    "rank": "A"
+  },
+  "tests/red_team/env/test_log_redaction.py": {
+    "mi": 76.34290575632058,
+    "rank": "A"
+  },
+  "tests/red_team/env/test_command_env.py": {
+    "mi": 73.85805369698599,
+    "rank": "A"
+  },
+  "tests/red_team/env/test_denylist_suffix_gaps.py": {
+    "mi": 76.50246519954557,
+    "rank": "A"
+  },
+  "tests/red_team/env/test_never_expand.py": {
+    "mi": 79.70072962740349,
+    "rank": "A"
+  },
+  "tests/red_team/env/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/red_team/env/test_header_expansion.py": {
+    "mi": 74.52463548855575,
+    "rank": "A"
+  },
+  "tests/red_team/env/fixtures/helpers.py": {
+    "mi": 72.4986972834563,
+    "rank": "A"
+  },
+  "tests/red_team/env/fixtures/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/red_team/http/test_scheme_and_credentials.py": {
+    "mi": 72.41625705215574,
+    "rank": "A"
+  },
+  "tests/red_team/http/test_header_injection.py": {
+    "mi": 83.38649081146744,
+    "rank": "A"
+  },
+  "tests/red_team/http/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/red_team/http/test_ssrf_destinations.py": {
+    "mi": 87.50717142094314,
+    "rank": "A"
+  },
+  "tests/red_team/http/test_redirect_and_timeout.py": {
+    "mi": 76.55737330542101,
+    "rank": "A"
+  },
+  "tests/red_team/http/test_ssrf_ip_encodings.py": {
+    "mi": 90.1004150508359,
+    "rank": "A"
+  },
+  "tests/red_team/http/test_ssrf_fixture_e2e.py": {
+    "mi": 80.85253574552668,
+    "rank": "A"
+  },
+  "tests/red_team/http/conftest.py": {
+    "mi": 66.78140688259984,
+    "rank": "A"
+  },
+  "tests/red_team/http/test_resource_exhaustion.py": {
+    "mi": 75.9708538460851,
+    "rank": "A"
+  },
+  "tests/red_team/install/test_event_ordering.py": {
+    "mi": 63.06773895554458,
+    "rank": "A"
+  },
+  "tests/red_team/install/test_alias_path_escape.py": {
+    "mi": 56.5120977116347,
+    "rank": "A"
+  },
+  "tests/red_team/install/test_http_thread_semantics.py": {
+    "mi": 64.5841240679251,
+    "rank": "A"
+  },
+  "tests/red_team/install/test_orphan_process.py": {
+    "mi": 79.85146761128345,
+    "rank": "A"
+  },
+  "tests/red_team/install/test_idempotency_and_log.py": {
+    "mi": 77.38986491777705,
+    "rank": "A"
+  },
+  "tests/red_team/install/test_concurrency.py": {
+    "mi": 60.17462005237599,
+    "rank": "A"
+  },
+  "tests/red_team/install/test_firing_trust_gate.py": {
+    "mi": 62.11443336994323,
+    "rank": "A"
+  },
+  "tests/red_team/install/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/red_team/install/test_execute_bypass.py": {
+    "mi": 84.99339313698826,
+    "rank": "A"
+  },
+  "tests/red_team/install/test_failure_isolation.py": {
+    "mi": 60.804043096670156,
+    "rank": "A"
+  },
+  "tests/red_team/install/conftest.py": {
+    "mi": 74.15440132983106,
+    "rank": "A"
+  },
+  "tests/acceptance/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/acceptance/test_logging_acceptance.py": {
+    "mi": 35.25761162979854,
+    "rank": "A"
+  },
+  "tests/fixtures/synthetic_trees.py": {
+    "mi": 71.68751569981762,
+    "rank": "A"
+  },
+  "tests/fixtures/policy/test_fixtures_load.py": {
+    "mi": 49.846133206639585,
+    "rank": "A"
+  },
+  "tests/fixtures/public_release_metadata/curl.py": {
+    "mi": 43.09961234431092,
+    "rank": "A"
+  },
+  "tests/integration/test_generic_git_url_install.py": {
+    "mi": 43.70778495539938,
+    "rank": "A"
+  },
+  "tests/integration/test_inactive_target_ghost_e2e.py": {
+    "mi": 28.83287198071003,
+    "rank": "A"
+  },
+  "tests/integration/test_wave8_diagnostics_validation_coverage.py": {
+    "mi": 13.246672192935476,
+    "rank": "B"
+  },
+  "tests/integration/test_architecture_owner_rule_mutations.py": {
+    "mi": 30.3543588617542,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_package_format_precedence.py": {
+    "mi": 58.36485261173784,
+    "rank": "A"
+  },
+  "tests/integration/test_runtime_smoke.py": {
+    "mi": 46.9029237144341,
+    "rank": "A"
+  },
+  "tests/integration/test_mcp_integrator_characterisation.py": {
+    "mi": 10.787384966747442,
+    "rank": "B"
+  },
+  "tests/integration/test_oci_mcp_lifecycle_contract.py": {
+    "mi": 29.125337338400477,
+    "rank": "A"
+  },
+  "tests/integration/test_govern_core_contract.py": {
+    "mi": 8.530880152811207,
+    "rank": "C"
+  },
+  "tests/integration/test_frozen_host_qualified_git_e2e.py": {
+    "mi": 35.8110621694736,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_semantic_rule_mutations.py": {
+    "mi": 49.399086097981055,
+    "rank": "A"
+  },
+  "tests/integration/test_script_runner_execution.py": {
+    "mi": 22.372941067060314,
+    "rank": "A"
+  },
+  "tests/integration/test_policy_url_chain_parity.py": {
+    "mi": 48.36914108733007,
+    "rank": "A"
+  },
+  "tests/integration/test_guardrailing_hero_e2e.py": {
+    "mi": 57.922618911612524,
+    "rank": "A"
+  },
+  "tests/integration/test_install_root_redirect_e2e.py": {
+    "mi": 78.12027154976391,
+    "rank": "A"
+  },
+  "tests/integration/test_wave8_codex_download_coverage.py": {
+    "mi": 23.049037282116483,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_lifecycle_lock.py": {
+    "mi": 50.82214598315535,
+    "rank": "A"
+  },
+  "tests/integration/test_artifactory_install_e2e.py": {
+    "mi": 43.13298193912414,
+    "rank": "A"
+  },
+  "tests/integration/test_install_subdir_dedup_e2e.py": {
+    "mi": 35.34611121988883,
+    "rank": "A"
+  },
+  "tests/integration/test_validation_rules.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_compile_clean_nested_worktree.py": {
+    "mi": 18.25173114830479,
+    "rank": "B"
+  },
+  "tests/integration/test_agent_skills_target.py": {
+    "mi": 38.17337158176787,
+    "rank": "A"
+  },
+  "tests/integration/test_coverage_gaps_phase4w2.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_architecture_native_skill_collision.py": {
+    "mi": 58.19754311695009,
+    "rank": "A"
+  },
+  "tests/integration/test_manifest_comments_e2e.py": {
+    "mi": 49.452301452192884,
+    "rank": "A"
+  },
+  "tests/integration/test_wave3_integrators_coverage.py": {
+    "mi": 33.42812744690331,
+    "rank": "A"
+  },
+  "tests/integration/test_install_audit_policy_floor.py": {
+    "mi": 50.50226487769054,
+    "rank": "A"
+  },
+  "tests/integration/test_windows_native_symlink.py": {
+    "mi": 38.331292438258785,
+    "rank": "A"
+  },
+  "tests/integration/test_coverage_phase4.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_skipped_integration_preserves_deployments.py": {
+    "mi": 47.42996922611439,
+    "rank": "A"
+  },
+  "tests/integration/test_cross_package_collision_file_survival.py": {
+    "mi": 59.146772884769085,
+    "rank": "A"
+  },
+  "tests/integration/test_virtual_skill_audit_e2e.py": {
+    "mi": 16.238765502609393,
+    "rank": "B"
+  },
+  "tests/integration/test_runner_reference_resolution.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_package_target_hook_routing_e2e.py": {
+    "mi": 24.327922424700663,
+    "rank": "A"
+  },
+  "tests/integration/test_github_marketplace_check_auth.py": {
+    "mi": 46.81666096990355,
+    "rank": "A"
+  },
+  "tests/integration/test_tiered_resolver_seed_e2e.py": {
+    "mi": 61.7551117790518,
+    "rank": "A"
+  },
+  "tests/integration/test_install_verbose_redaction_e2e.py": {
+    "mi": 64.41423292584582,
+    "rank": "A"
+  },
+  "tests/integration/test_link_rewrite_e2e.py": {
+    "mi": 44.32391234674553,
+    "rank": "A"
+  },
+  "tests/integration/test_mcp_install_phase3w4.py": {
+    "mi": 32.26696299184797,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_adapters_coverage.py": {
+    "mi": 0.38874766161668906,
+    "rank": "C"
+  },
+  "tests/integration/test_package_validator_rules.py": {
+    "mi": 28.426179653339215,
+    "rank": "A"
+  },
+  "tests/integration/test_produce_consume_contract.py": {
+    "mi": 30.955607647229854,
+    "rank": "A"
+  },
+  "tests/integration/test_plugin_skill_subset_pack_e2e.py": {
+    "mi": 48.25145493863398,
+    "rank": "A"
+  },
+  "tests/integration/test_uninstall_policy_pack_flow.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_golden_scenario_e2e.py": {
+    "mi": 28.164009089914547,
+    "rank": "A"
+  },
+  "tests/integration/test_unrecorded_drift_lifecycle_e2e.py": {
+    "mi": 8.561244432326337,
+    "rank": "C"
+  },
+  "tests/integration/test_utils_logic_phase4w3.py": {
+    "mi": 25.90395512082639,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_compile_inventory_mutations.py": {
+    "mi": 53.001274325677024,
+    "rank": "A"
+  },
+  "tests/integration/test_local_git_repository_factory_contract.py": {
+    "mi": 11.834456207753593,
+    "rank": "B"
+  },
+  "tests/integration/test_executables_gate_integration.py": {
+    "mi": 1.956457881376972,
+    "rank": "C"
+  },
+  "tests/integration/test_config_valid_keys_e2e.py": {
+    "mi": 71.06645734763461,
+    "rank": "A"
+  },
+  "tests/integration/test_drift_check_e2e.py": {
+    "mi": 43.481234925655656,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_onboarding.py": {
+    "mi": 48.928138884935905,
+    "rank": "A"
+  },
+  "tests/integration/test_install_cli_cursor_claude_import_recheck_e2e.py": {
+    "mi": 65.54036573684807,
+    "rank": "A"
+  },
+  "tests/integration/test_uninstall_deletion_failure_lifecycle.py": {
+    "mi": 14.947222265451874,
+    "rank": "B"
+  },
+  "tests/integration/test_audit_silent_skip_e2e.py": {
+    "mi": 56.11118555125836,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_add_generic_git.py": {
+    "mi": 72.42642024532537,
+    "rank": "A"
+  },
+  "tests/integration/test_frozen_cold_cache_apm_package_e2e.py": {
+    "mi": 56.50360574844714,
+    "rank": "A"
+  },
+  "tests/integration/test_install_marketplace_phase4w3.py": {
+    "mi": 15.538613596625874,
+    "rank": "B"
+  },
+  "tests/integration/test_architecture_concurrency_guards.py": {
+    "mi": 49.30935458126567,
+    "rank": "A"
+  },
+  "tests/integration/test_install_local_bundle_e2e.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_intellij_mcp_config_lifecycle.py": {
+    "mi": 10.379522111973944,
+    "rank": "B"
+  },
+  "tests/integration/test_install_compile_antigravity_dedup_e2e.py": {
+    "mi": 64.72352902106239,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_intent_guards.py": {
+    "mi": 55.08719067810071,
+    "rank": "A"
+  },
+  "tests/integration/test_required_lifecycle_state_machine.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_anonymous_https_git_suffix_e2e.py": {
+    "mi": 40.624078338688626,
+    "rank": "A"
+  },
+  "tests/integration/test_mcp_integrator_install_flow.py": {
+    "mi": 23.091762844864856,
+    "rank": "A"
+  },
+  "tests/integration/test_pack_unified.py": {
+    "mi": 13.66873636429707,
+    "rank": "B"
+  },
+  "tests/integration/test_mcp_targets_gating_e2e.py": {
+    "mi": 60.3052558297922,
+    "rank": "A"
+  },
+  "tests/integration/test_wave3_marketplace_coverage.py": {
+    "mi": 28.475470116218702,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_bundle_format.py": {
+    "mi": 49.2221143885177,
+    "rank": "A"
+  },
+  "tests/integration/test_consume_source_ref_cache_matrix.py": {
+    "mi": 19.344756116267547,
+    "rank": "A"
+  },
+  "tests/integration/test_ado_e2e.py": {
+    "mi": 45.6351685399875,
+    "rank": "A"
+  },
+  "tests/integration/test_policy_coverage.py": {
+    "mi": 25.563057528291274,
+    "rank": "A"
+  },
+  "tests/integration/test_wave4_cli_commands_coverage.py": {
+    "mi": 23.123158350542344,
+    "rank": "A"
+  },
+  "tests/integration/test_update_mcp_lsp_prune.py": {
+    "mi": 58.49013680586753,
+    "rank": "A"
+  },
+  "tests/integration/test_artifactory_probe_pipeline_e2e.py": {
+    "mi": 64.96898088359161,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_e2e.py": {
+    "mi": 66.69247189967955,
+    "rank": "A"
+  },
+  "tests/integration/test_pack_install_flow.py": {
+    "mi": 10.436453928246086,
+    "rank": "B"
+  },
+  "tests/integration/test_lock_e2e.py": {
+    "mi": 47.34390693709843,
+    "rank": "A"
+  },
+  "tests/integration/test_outdated_coverage.py": {
+    "mi": 22.357508101536876,
+    "rank": "A"
+  },
+  "tests/integration/release_homebrew_update_harness.py": {
+    "mi": 53.09901847790299,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_e2e_surface.py": {
+    "mi": 23.431016980413265,
+    "rank": "A"
+  },
+  "tests/integration/test_commands_config_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_lockfile_transitive_replay_e2e.py": {
+    "mi": 39.68008074821923,
+    "rank": "A"
+  },
+  "tests/integration/test_virtual_package_lifecycle_matrix.py": {
+    "mi": 10.623440524086138,
+    "rank": "B"
+  },
+  "tests/integration/test_lifecycle_workspace_lock.py": {
+    "mi": 30.11900190273732,
+    "rank": "A"
+  },
+  "tests/integration/test_global_claude_dedup_lifecycle.py": {
+    "mi": 4.753341643248798,
+    "rank": "C"
+  },
+  "tests/integration/test_tls_wheel_content.py": {
+    "mi": 71.25941167976742,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_skill_provenance_scope.py": {
+    "mi": 45.786195715203625,
+    "rank": "A"
+  },
+  "tests/integration/test_gitlab_install_e2e.py": {
+    "mi": 66.6211569901281,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_marketplace_remote.py": {
+    "mi": 56.08003750261977,
+    "rank": "A"
+  },
+  "tests/integration/test_policy_discovery_e2e.py": {
+    "mi": 52.96923603828362,
+    "rank": "A"
+  },
+  "tests/integration/test_local_package_factory_contract.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_marketplace_update_provenance_lifecycle.py": {
+    "mi": 45.88220633972178,
+    "rank": "A"
+  },
+  "tests/integration/test_find_command.py": {
+    "mi": 35.5972070412952,
+    "rank": "A"
+  },
+  "tests/integration/test_opencode_enabled_lifecycle.py": {
+    "mi": 32.76017162292701,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_host_reference_parser.py": {
+    "mi": 52.987070123313835,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_marketplace_tag_pattern.py": {
+    "mi": 48.02608401464649,
+    "rank": "A"
+  },
+  "tests/integration/test_copilot_app_ws_fallback.py": {
+    "mi": 55.168460003958664,
+    "rank": "A"
+  },
+  "tests/integration/test_github_mcp_auth_lifecycle.py": {
+    "mi": 23.40977157522544,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_host_provider_identity.py": {
+    "mi": 44.46225452949364,
+    "rank": "A"
+  },
+  "tests/integration/test_wave7_policy_registry_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_mcp_stdio_env_resolution_e2e.py": {
+    "mi": 46.0042257915677,
+    "rank": "A"
+  },
+  "tests/integration/test_cache_clean_lifecycle.py": {
+    "mi": 42.987370893360584,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_install_local.py": {
+    "mi": 34.89565458715383,
+    "rank": "A"
+  },
+  "tests/integration/test_core_smoke.py": {
+    "mi": 62.053780314338724,
+    "rank": "A"
+  },
+  "tests/integration/test_download_strategies_selection.py": {
+    "mi": 7.430511624049116,
+    "rank": "C"
+  },
+  "tests/integration/test_local_install.py": {
+    "mi": 19.74532244703819,
+    "rank": "A"
+  },
+  "tests/integration/test_wave4_adapters_registry_coverage.py": {
+    "mi": 10.87957810696303,
+    "rank": "B"
+  },
+  "tests/integration/test_release_homebrew_update.py": {
+    "mi": 41.92537150580819,
+    "rank": "A"
+  },
+  "tests/integration/test_skill_bundle_live.py": {
+    "mi": 36.41780232774203,
+    "rank": "A"
+  },
+  "tests/integration/test_compile_global.py": {
+    "mi": 32.06613303228823,
+    "rank": "A"
+  },
+  "tests/integration/test_tiered_resolver_integration.py": {
+    "mi": 65.95983169121547,
+    "rank": "A"
+  },
+  "tests/integration/test_install_validation_rules.py": {
+    "mi": 35.30879624587264,
+    "rank": "A"
+  },
+  "tests/integration/test_plugin_bin_deploy_hardening.py": {
+    "mi": 42.881898624831074,
+    "rank": "A"
+  },
+  "tests/integration/test_integrators_hooks_execution.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_command_integrator_hermetic.py": {
+    "mi": 7.268143045105909,
+    "rank": "C"
+  },
+  "tests/integration/test_cache_prune_outcome_lifecycle.py": {
+    "mi": 42.70844075942823,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_pack_lockfile_read.py": {
+    "mi": 36.88201541222158,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_agents_footer.py": {
+    "mi": 48.01711079283219,
+    "rank": "A"
+  },
+  "tests/integration/test_cli_docs_contract.py": {
+    "mi": 40.7676595607086,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_ssh_install_e2e.py": {
+    "mi": 50.70887721366132,
+    "rank": "A"
+  },
+  "tests/integration/test_ado_policy_project_coordinate.py": {
+    "mi": 39.817060794828976,
+    "rank": "A"
+  },
+  "tests/integration/test_ado_bearer_e2e.py": {
+    "mi": 47.98265556171661,
+    "rank": "A"
+  },
+  "tests/integration/test_copilot_native_plugin_binary_lifecycle.py": {
+    "mi": 38.839011289909706,
+    "rank": "A"
+  },
+  "tests/integration/test_http_cache_recency_lifecycle.py": {
+    "mi": 55.60553983711768,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_builder_phase3w4.py": {
+    "mi": 12.627342240428895,
+    "rank": "B"
+  },
+  "tests/integration/test_output_formatters_coverage.py": {
+    "mi": 22.06122687796302,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_marketplace_output_path.py": {
+    "mi": 51.07862718871791,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_hash_visible_lf_writes.py": {
+    "mi": 53.08031412594092,
+    "rank": "A"
+  },
+  "tests/integration/test_wave3_deps_models_coverage.py": {
+    "mi": 15.534044899498682,
+    "rank": "B"
+  },
+  "tests/integration/test_legacy_plugin_skill_declaration_lifecycle.py": {
+    "mi": 35.32688464751887,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_contract_compound_mutations.py": {
+    "mi": 49.17869466605471,
+    "rank": "A"
+  },
+  "tests/integration/test_apply_to_hidden_targeting_lifecycle.py": {
+    "mi": 46.76864039396881,
+    "rank": "A"
+  },
+  "tests/integration/test_utils_coverage.py": {
+    "mi": 9.287849622772354,
+    "rank": "B"
+  },
+  "tests/integration/test_install_lsp_lockfile_determinism.py": {
+    "mi": 31.298038833274255,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_producer_consumer_closure.py": {
+    "mi": 27.981969660547655,
+    "rank": "A"
+  },
+  "tests/integration/test_target_instruction_contraction_e2e.py": {
+    "mi": 34.24025254309678,
+    "rank": "A"
+  },
+  "tests/integration/test_compile_root_redirect_e2e.py": {
+    "mi": 73.34718697023862,
+    "rank": "A"
+  },
+  "tests/integration/test_audit_skill_subset_replay.py": {
+    "mi": 35.13846884663552,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_contract_guards.py": {
+    "mi": 28.79042870470619,
+    "rank": "A"
+  },
+  "tests/integration/test_tls_frozen_hook.py": {
+    "mi": 55.210448591334824,
+    "rank": "A"
+  },
+  "tests/integration/test_copilot_app_targets_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_integrators_hooks_phase3c.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_codex_agent_tool_scope_contract.py": {
+    "mi": 33.746602855036116,
+    "rank": "A"
+  },
+  "tests/integration/test_commands_auth_flow.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_producer_journey.py": {
+    "mi": 53.091430484523734,
+    "rank": "A"
+  },
+  "tests/integration/test_wave2_adapters_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_wave6_outdated_view_coverage.py": {
+    "mi": 14.290282739289008,
+    "rank": "B"
+  },
+  "tests/integration/test_github_downloader_phase3w4.py": {
+    "mi": 36.04807057821414,
+    "rank": "A"
+  },
+  "tests/integration/test_install_sources_phase3w4.py": {
+    "mi": 37.93646591266568,
+    "rank": "A"
+  },
+  "tests/integration/test_hook_wipe_target_scope_e2e.py": {
+    "mi": 45.771107101280286,
+    "rank": "A"
+  },
+  "tests/integration/test_ado_lock_consumer_contract.py": {
+    "mi": 29.698202216632215,
+    "rank": "A"
+  },
+  "tests/integration/test_silent_adopt_existing_files_e2e.py": {
+    "mi": 55.97061422433795,
+    "rank": "A"
+  },
+  "tests/integration/test_download_copilot_end_to_end.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_remaining_modules_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_prune_skill_lifecycle.py": {
+    "mi": 25.881918188023818,
+    "rank": "A"
+  },
+  "tests/integration/test_deep_coverage_adapters.py": {
+    "mi": 17.27829000874793,
+    "rank": "B"
+  },
+  "tests/integration/test_lifecycle_reconciliation.py": {
+    "mi": 48.76926322480018,
+    "rank": "A"
+  },
+  "tests/integration/test_uninstall_marketplace.py": {
+    "mi": 66.1278647570291,
+    "rank": "A"
+  },
+  "tests/integration/test_git_hook_env_isolation.py": {
+    "mi": 15.422263969422271,
+    "rank": "B"
+  },
+  "tests/integration/test_hook_js_sidecar_lifecycle_contract.py": {
+    "mi": 11.936319026913038,
+    "rank": "B"
+  },
+  "tests/integration/test_real_consume_contracts.py": {
+    "mi": 28.35142881304793,
+    "rank": "A"
+  },
+  "tests/integration/test_noncontainer_mcp_lifecycle_contract.py": {
+    "mi": 29.525130529401167,
+    "rank": "A"
+  },
+  "tests/integration/test_dep_url_parsing_e2e.py": {
+    "mi": 56.24513320828972,
+    "rank": "A"
+  },
+  "tests/integration/test_ownership_invariant_lifecycle.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_apm_lifecycle_runner_contract.py": {
+    "mi": 33.24353308798464,
+    "rank": "A"
+  },
+  "tests/integration/test_integrators_end_to_end.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_runnable_prompts_integration.py": {
+    "mi": 48.95135473930127,
+    "rank": "A"
+  },
+  "tests/integration/test_wave6_deps_cli_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_integration.py": {
+    "mi": 75.5371142479432,
+    "rank": "A"
+  },
+  "tests/integration/test_package_shape_lifecycle_contract.py": {
+    "mi": 6.112351315058383,
+    "rank": "C"
+  },
+  "tests/integration/test_architecture_apply_to_patterns.py": {
+    "mi": 35.59902989681902,
+    "rank": "A"
+  },
+  "tests/integration/test_hermetic_lifecycle_foundation.py": {
+    "mi": 15.965421964174226,
+    "rank": "B"
+  },
+  "tests/integration/test_hook_target_contraction_reconciliation.py": {
+    "mi": 34.87290537971012,
+    "rank": "A"
+  },
+  "tests/integration/test_multi_runtime_integration.py": {
+    "mi": 70.37272898412111,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_generic_https_credential_lifecycle.py": {
+    "mi": 37.03685106371487,
+    "rank": "A"
+  },
+  "tests/integration/test_pack_root_skills_e2e.py": {
+    "mi": 36.89235501839293,
+    "rank": "A"
+  },
+  "tests/integration/test_transitive_mcp_audit_e2e.py": {
+    "mi": 45.26033941746844,
+    "rank": "A"
+  },
+  "tests/integration/test_deps_update_e2e.py": {
+    "mi": 48.244010505303514,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_lsp_plugin.py": {
+    "mi": 33.76313741407478,
+    "rank": "A"
+  },
+  "tests/integration/test_git_cache_recency_lifecycle.py": {
+    "mi": 50.21127292634183,
+    "rank": "A"
+  },
+  "tests/integration/test_compile_copilot_root_instructions.py": {
+    "mi": 46.2854510859992,
+    "rank": "A"
+  },
+  "tests/integration/test_uninstall_engine_coverage.py": {
+    "mi": 37.072247433014034,
+    "rank": "A"
+  },
+  "tests/integration/test_brownfield_lifecycle.py": {
+    "mi": 27.593243073995353,
+    "rank": "A"
+  },
+  "tests/integration/test_hook_integrator_copilot_casing_e2e.py": {
+    "mi": 27.66694317200167,
+    "rank": "A"
+  },
+  "tests/integration/test_intellij_target.py": {
+    "mi": 53.594225591768385,
+    "rank": "A"
+  },
+  "tests/integration/test_ghe_marketplace_install_e2e.py": {
+    "mi": 56.25407924084179,
+    "rank": "A"
+  },
+  "tests/integration/test_yml_schema_validation.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_compilation_coverage.py": {
+    "mi": 34.570521524484946,
+    "rank": "A"
+  },
+  "tests/integration/test_commands_deep_coverage.py": {
+    "mi": 39.836862172996824,
+    "rank": "A"
+  },
+  "tests/integration/test_mcp_dev_dependency_lifecycle.py": {
+    "mi": 23.100168109207335,
+    "rank": "A"
+  },
+  "tests/integration/test_registry.py": {
+    "mi": 63.24440567912466,
+    "rank": "A"
+  },
+  "tests/integration/test_credential_fill_disambiguation.py": {
+    "mi": 53.51118843221944,
+    "rank": "A"
+  },
+  "tests/integration/test_mcp_only_lockfile_lifecycle.py": {
+    "mi": 21.496423404545748,
+    "rank": "A"
+  },
+  "tests/integration/test_install_mcp_lockfile_determinism.py": {
+    "mi": 20.953321932986515,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_add_local.py": {
+    "mi": 58.29548549918385,
+    "rank": "A"
+  },
+  "tests/integration/test_compile_constitution_injection.py": {
+    "mi": 57.951902547377664,
+    "rank": "A"
+  },
+  "tests/integration/test_wave6_integrators_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_hook_event_native_lifecycle.py": {
+    "mi": 17.32457618685754,
+    "rank": "B"
+  },
+  "tests/integration/test_runtime_setup_codex_script.py": {
+    "mi": 28.508220533717544,
+    "rank": "A"
+  },
+  "tests/integration/test_install_services_phase3w5.py": {
+    "mi": 3.1461647673852977,
+    "rank": "C"
+  },
+  "tests/integration/test_marketplace_invalid_plugins_validation.py": {
+    "mi": 49.40883218079888,
+    "rank": "A"
+  },
+  "tests/integration/test_wave6_init_pack_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/integration/test_wave6_audit_discovery_coverage.py": {
+    "mi": 15.196831631784523,
+    "rank": "B"
+  },
+  "tests/integration/test_selective_install_mcp.py": {
+    "mi": 42.76936884840115,
+    "rank": "A"
+  },
+  "tests/integration/test_audit_external_scanners.py": {
+    "mi": 32.50635048915405,
+    "rank": "A"
+  },
+  "tests/integration/test_policy_install_e2e.py": {
+    "mi": 31.779149111566,
+    "rank": "A"
+  },
+  "tests/integration/test_artifact_snapshot_contract.py": {
+    "mi": 31.98297991931866,
+    "rank": "A"
+  },
+  "tests/integration/test_uninstall_hook_cleanup_failure.py": {
+    "mi": 34.38421816260338,
+    "rank": "A"
+  },
+  "tests/integration/test_azure_skills_marketplace.py": {
+    "mi": 79.43602269399861,
+    "rank": "A"
+  },
+  "tests/integration/test_target_resolution_e2e.py": {
+    "mi": 30.672719405111874,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_confirmed_bypass_mutations.py": {
+    "mi": 46.54928487607754,
+    "rank": "A"
+  },
+  "tests/integration/test_generic_https_credential_env_e2e.py": {
+    "mi": 55.269933983892926,
+    "rank": "A"
+  },
+  "tests/integration/test_bare_cache_integration.py": {
+    "mi": 60.421721589216006,
+    "rank": "A"
+  },
+  "tests/integration/test_url_rewrite_subprocess_env_install_e2e.py": {
+    "mi": 54.03605964797421,
+    "rank": "A"
+  },
+  "tests/integration/test_trusted_executable_discovery.py": {
+    "mi": 25.734250492920822,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_metadata_auth_fallback.py": {
+    "mi": 42.125747369033256,
+    "rank": "A"
+  },
+  "tests/integration/test_deps_why_e2e.py": {
+    "mi": 63.28929001633185,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_unix_install_ownership.py": {
+    "mi": 39.99291403972208,
+    "rank": "A"
+  },
+  "tests/integration/test_download_strategies_phase3w5.py": {
+    "mi": 9.575744837367798,
+    "rank": "B"
+  },
+  "tests/integration/test_architecture_gitlab_sparse_transport.py": {
+    "mi": 40.14950688351844,
+    "rank": "A"
+  },
+  "tests/integration/test_compile_claude_single_h1.py": {
+    "mi": 46.51712745937934,
+    "rank": "A"
+  },
+  "tests/integration/test_marker_registry_sync.py": {
+    "mi": 63.02600756001568,
+    "rank": "A"
+  },
+  "tests/integration/test_vscode_adapter_phase3w4.py": {
+    "mi": 11.720459584881734,
+    "rank": "B"
+  },
+  "tests/integration/test_ado_marketplace_check_auth.py": {
+    "mi": 61.65818268703946,
+    "rank": "A"
+  },
+  "tests/integration/test_global_scope_e2e.py": {
+    "mi": 15.731933682899804,
+    "rank": "B"
+  },
+  "tests/integration/test_drift_check.py": {
+    "mi": 16.743722743828883,
+    "rank": "B"
+  },
+  "tests/integration/test_ref_freshness_lifecycle.py": {
+    "mi": 18.80789117976833,
+    "rank": "B"
+  },
+  "tests/integration/test_tls_r3_verify.py": {
+    "mi": 40.716607109742185,
+    "rank": "A"
+  },
+  "tests/integration/test_wave4_pure_logic_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_git_cache_hermetic.py": {
+    "mi": 3.332680568928939,
+    "rank": "C"
+  },
+  "tests/integration/test_deps_cli_coverage.py": {
+    "mi": 32.48013697212605,
+    "rank": "A"
+  },
+  "tests/integration/test_intra_package_cleanup.py": {
+    "mi": 37.46641259869568,
+    "rank": "A"
+  },
+  "tests/integration/test_local_path_dependency_targets_e2e.py": {
+    "mi": 57.7954897151786,
+    "rank": "A"
+  },
+  "tests/integration/test_public_github_anonymous_lifecycle_e2e.py": {
+    "mi": 13.00794865119741,
+    "rank": "B"
+  },
+  "tests/integration/test_audit_root_local_hook_replay_e2e.py": {
+    "mi": 42.50142897720549,
+    "rank": "A"
+  },
+  "tests/integration/test_tls_child_runtime.py": {
+    "mi": 58.486006195006915,
+    "rank": "A"
+  },
+  "tests/integration/test_deep_coverage_deps_policy.py": {
+    "mi": 18.285448728554215,
+    "rank": "B"
+  },
+  "tests/integration/test_deps_resolver_resolution.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_ado_preflight_bearer_fallback_e2e.py": {
+    "mi": 59.254328762816144,
+    "rank": "A"
+  },
+  "tests/integration/test_wave7_depref_sources_coverage.py": {
+    "mi": 27.951157981846634,
+    "rank": "A"
+  },
+  "tests/integration/test_commands_mcp_flow.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_integration_runtime_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_git_hook_install_env_isolation_e2e.py": {
+    "mi": 37.588594787975154,
+    "rank": "A"
+  },
+  "tests/integration/test_prune_hook_reconciliation_e2e.py": {
+    "mi": 31.96976858878024,
+    "rank": "A"
+  },
+  "tests/integration/test_install_content_hash_roundtrip.py": {
+    "mi": 35.25119619906006,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_mutation_guards.py": {
+    "mi": 40.27071090810282,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_effective_output_path_lifecycle.py": {
+    "mi": 49.67147934407255,
+    "rank": "A"
+  },
+  "tests/integration/test_ado_ref_resolution_fallback.py": {
+    "mi": 43.738970470251246,
+    "rank": "A"
+  },
+  "tests/integration/test_install_silent_skip_e2e.py": {
+    "mi": 73.69331190858681,
+    "rank": "A"
+  },
+  "tests/integration/test_ado_server_auth_lifecycle_contract.py": {
+    "mi": 25.73036004790295,
+    "rank": "A"
+  },
+  "tests/integration/test_virtual_package_orphan_detection.py": {
+    "mi": 39.73073410184033,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_native_lifecycle_evidence.py": {
+    "mi": 41.1872095927869,
+    "rank": "A"
+  },
+  "tests/integration/test_hook_root_source_drift_e2e.py": {
+    "mi": 48.63584999095894,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_io_guards.py": {
+    "mi": 38.32934710290248,
+    "rank": "A"
+  },
+  "tests/integration/test_lifecycle_state_snapshot_contract.py": {
+    "mi": 10.767191160432189,
+    "rank": "B"
+  },
+  "tests/integration/test_audit_unrecorded_unicode_lifecycle.py": {
+    "mi": 18.96551882026454,
+    "rank": "B"
+  },
+  "tests/integration/test_plugin_e2e.py": {
+    "mi": 2.9435135328674744,
+    "rank": "C"
+  },
+  "tests/integration/test_architecture_audit_discovery.py": {
+    "mi": 53.441252605565175,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_nested_https_source_lifecycle.py": {
+    "mi": 31.54282562739639,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_tag_pattern_lifecycle.py": {
+    "mi": 11.286277712447127,
+    "rank": "B"
+  },
+  "tests/integration/test_marketplace_ado_rest.py": {
+    "mi": 59.54825536999025,
+    "rank": "A"
+  },
+  "tests/integration/test_tls_custom_ca.py": {
+    "mi": 61.24653172760595,
+    "rank": "A"
+  },
+  "tests/integration/test_isolated_apm_environment_contract.py": {
+    "mi": 8.186429846734285,
+    "rank": "C"
+  },
+  "tests/integration/test_agent_plugin_spec_contract.py": {
+    "mi": 29.749949203097685,
+    "rank": "A"
+  },
+  "tests/integration/test_cursor_hook_lifecycle.py": {
+    "mi": 55.68957868087724,
+    "rank": "A"
+  },
+  "tests/integration/test_pack_apm_provenance_e2e.py": {
+    "mi": 53.701601894543614,
+    "rank": "A"
+  },
+  "tests/integration/test_gitlab_sparse_transport_mutations.py": {
+    "mi": 40.648266490212464,
+    "rank": "A"
+  },
+  "tests/integration/test_self_update_release_lifecycle.py": {
+    "mi": 24.350528906431645,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_cache_identity_linter.py": {
+    "mi": 47.5612002843942,
+    "rank": "A"
+  },
+  "tests/integration/test_hermes_target.py": {
+    "mi": 39.06812522083747,
+    "rank": "A"
+  },
+  "tests/integration/test_resolution_staging_recovery.py": {
+    "mi": 38.32399816249875,
+    "rank": "A"
+  },
+  "tests/integration/test_plugin_local_version_lifecycle.py": {
+    "mi": 35.04166192101435,
+    "rank": "A"
+  },
+  "tests/integration/test_deps_registry_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_deployed_files_e2e.py": {
+    "mi": 18.58950441206516,
+    "rank": "B"
+  },
+  "tests/integration/test_apm_dependencies.py": {
+    "mi": 37.257111691282624,
+    "rank": "A"
+  },
+  "tests/integration/test_auth_resolver.py": {
+    "mi": 40.06480784713396,
+    "rank": "A"
+  },
+  "tests/integration/test_compile_permission_denied.py": {
+    "mi": 77.29100856936249,
+    "rank": "A"
+  },
+  "tests/integration/test_deps_coverage.py": {
+    "mi": 26.118061590473882,
+    "rank": "A"
+  },
+  "tests/integration/test_git_semver_install_e2e.py": {
+    "mi": 12.403001633949744,
+    "rank": "B"
+  },
+  "tests/integration/test_skill_install.py": {
+    "mi": 54.08266704390531,
+    "rank": "A"
+  },
+  "tests/integration/test_remote_marketplace_metadata_outage_lifecycle.py": {
+    "mi": 38.08247836486492,
+    "rank": "A"
+  },
+  "tests/integration/test_local_content_audit.py": {
+    "mi": 49.882743146626204,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_ssh_subprocess.py": {
+    "mi": 48.42139474471405,
+    "rank": "A"
+  },
+  "tests/integration/test_audit_coverage.py": {
+    "mi": 28.814144822701873,
+    "rank": "A"
+  },
+  "tests/integration/test_pack_install_phase3w4.py": {
+    "mi": 19.572265983879245,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_release_metadata.py": {
+    "mi": 51.41796191950803,
+    "rank": "A"
+  },
+  "tests/integration/test_local_uninstall_alias_e2e.py": {
+    "mi": 19.13463413935518,
+    "rank": "A"
+  },
+  "tests/integration/test_wave7_marketplace_install_coverage.py": {
+    "mi": 3.524095018083173,
+    "rank": "C"
+  },
+  "tests/integration/test_architecture_policy_bytecode.py": {
+    "mi": 45.519617163220694,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_builder_hermetic.py": {
+    "mi": 10.367585167606173,
+    "rank": "B"
+  },
+  "tests/integration/test_wave8_copilot_resolver_coverage.py": {
+    "mi": 11.080088098160111,
+    "rank": "B"
+  },
+  "tests/integration/test_coverage_integration.py": {
+    "mi": 17.75895146428976,
+    "rank": "B"
+  },
+  "tests/integration/test_audit_scan_hermetic.py": {
+    "mi": 28.657233573470247,
+    "rank": "A"
+  },
+  "tests/integration/test_canvas_integration.py": {
+    "mi": 33.02541490132751,
+    "rank": "A"
+  },
+  "tests/integration/test_install_services_orchestration.py": {
+    "mi": 8.281387650164357,
+    "rank": "C"
+  },
+  "tests/integration/test_architecture_dependency_reference.py": {
+    "mi": 35.47760230875301,
+    "rank": "A"
+  },
+  "tests/integration/test_audit_dependency_skill_links_e2e.py": {
+    "mi": 49.897555893172516,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_marketplace_source_admission.py": {
+    "mi": 49.27432925682228,
+    "rank": "A"
+  },
+  "tests/integration/test_compile_universal_apply_to_fastpath_e2e.py": {
+    "mi": 32.85228362971274,
+    "rank": "A"
+  },
+  "tests/integration/test_install_with_links.py": {
+    "mi": 50.369196562874315,
+    "rank": "A"
+  },
+  "tests/integration/test_install_invalid_deps_format_e2e.py": {
+    "mi": 56.17889699500847,
+    "rank": "A"
+  },
+  "tests/integration/test_transitive_chain_e2e.py": {
+    "mi": 33.87847602924935,
+    "rank": "A"
+  },
+  "tests/integration/test_package_identity_case_install.py": {
+    "mi": 49.099709377297486,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_linter_entrypoint.py": {
+    "mi": 38.367798983398316,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_marketplace_metadata_enrichment.py": {
+    "mi": 51.18752898983041,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_immutable_requirements.py": {
+    "mi": 63.422349114130846,
+    "rank": "A"
+  },
+  "tests/integration/test_ado_marketplace_e2e.py": {
+    "mi": 65.48340808717198,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_local_audit_lifecycle.py": {
+    "mi": 41.232556283963,
+    "rank": "A"
+  },
+  "tests/integration/test_auto_integration.py": {
+    "mi": 71.0473768260156,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_exemption_policies.py": {
+    "mi": 58.97634653378165,
+    "rank": "A"
+  },
+  "tests/integration/test_install_compile_claude_dedup_e2e.py": {
+    "mi": 67.14547504771066,
+    "rank": "A"
+  },
+  "tests/integration/test_gitlab_sparse_transport_contract.py": {
+    "mi": 25.49274485147828,
+    "rank": "A"
+  },
+  "tests/integration/test_config_surface_lifecycle_contract.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_primitive_target_covering_array.py": {
+    "mi": 16.128773552167598,
+    "rank": "B"
+  },
+  "tests/integration/test_context_optimizer_placement.py": {
+    "mi": 28.412740304409102,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_outcome_guards.py": {
+    "mi": 26.73046423216212,
+    "rank": "A"
+  },
+  "tests/integration/test_cache_coverage.py": {
+    "mi": 29.37670096728354,
+    "rank": "A"
+  },
+  "tests/integration/test_registry_client_integration.py": {
+    "mi": 64.3505272378073,
+    "rank": "A"
+  },
+  "tests/integration/test_uninstall_multi_e2e.py": {
+    "mi": 47.67343107420058,
+    "rank": "A"
+  },
+  "tests/integration/test_immutable_requirements_install.py": {
+    "mi": 31.50983364153861,
+    "rank": "A"
+  },
+  "tests/integration/test_windows_installer_launchers.py": {
+    "mi": 63.841346561396534,
+    "rank": "A"
+  },
+  "tests/integration/test_update_e2e.py": {
+    "mi": 52.2402213143233,
+    "rank": "A"
+  },
+  "tests/integration/test_cache_prune_age_lifecycle.py": {
+    "mi": 38.627787561768976,
+    "rank": "A"
+  },
+  "tests/integration/_tls_ca_server.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/integration/test_sparse_cone_symlink_repair.py": {
+    "mi": 30.211903649131003,
+    "rank": "A"
+  },
+  "tests/integration/test_ghes_fqdn_subpath_e2e.py": {
+    "mi": 71.88252438218802,
+    "rank": "A"
+  },
+  "tests/integration/test_wave6_formatters_lockfile_coverage.py": {
+    "mi": 29.206899418788602,
+    "rank": "A"
+  },
+  "tests/integration/test_git_reference_resolver_resolution.py": {
+    "mi": 11.297559656544802,
+    "rank": "B"
+  },
+  "tests/integration/test_openclaw_target.py": {
+    "mi": 41.96179783402486,
+    "rank": "A"
+  },
+  "tests/integration/test_prune_deployment_ledger_e2e.py": {
+    "mi": 27.04659358101788,
+    "rank": "A"
+  },
+  "tests/integration/test_mcp_env_var_copilot_e2e.py": {
+    "mi": 26.435227768233233,
+    "rank": "A"
+  },
+  "tests/integration/test_skill_integrator_hermetic.py": {
+    "mi": 15.75873749977237,
+    "rank": "B"
+  },
+  "tests/integration/test_mcp_install_flow.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_global_audit_deploy_root.py": {
+    "mi": 22.106189316810262,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_mcp_auth.py": {
+    "mi": 57.054455359572096,
+    "rank": "A"
+  },
+  "tests/integration/test_deployed_files_gitignore_integration.py": {
+    "mi": 73.14279826956697,
+    "rank": "A"
+  },
+  "tests/integration/conftest.py": {
+    "mi": 60.015645511709316,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_frontmatter_bom.py": {
+    "mi": 33.401666739764224,
+    "rank": "A"
+  },
+  "tests/integration/test_vscode_adapter_compatibility.py": {
+    "mi": 14.990176508718735,
+    "rank": "B"
+  },
+  "tests/integration/test_mcp_coverage.py": {
+    "mi": 46.77928161579091,
+    "rank": "A"
+  },
+  "tests/integration/test_packaged_virtual_file_lifecycle_e2e.py": {
+    "mi": 44.99530595816863,
+    "rank": "A"
+  },
+  "tests/integration/test_virtual_claude_skill_lock_convergence.py": {
+    "mi": 32.293010439994305,
+    "rank": "A"
+  },
+  "tests/integration/test_hook_routing_combined_manifest_e2e.py": {
+    "mi": 49.76080716110326,
+    "rank": "A"
+  },
+  "tests/integration/test_global_mcp_lockfile_e2e.py": {
+    "mi": 56.87666630207681,
+    "rank": "A"
+  },
+  "tests/integration/test_audit_cold_cache_ci_e2e.py": {
+    "mi": 39.20898734533099,
+    "rank": "A"
+  },
+  "tests/integration/test_generated_lifecycle_state_machine.py": {
+    "mi": 0.48643292227100504,
+    "rank": "C"
+  },
+  "tests/integration/test_skill_integration.py": {
+    "mi": 56.27166846809602,
+    "rank": "A"
+  },
+  "tests/integration/test_kiro_agent_lifecycle.py": {
+    "mi": 38.14609588772222,
+    "rank": "A"
+  },
+  "tests/integration/test_unix_installer_path_integration.py": {
+    "mi": 5.912771821475593,
+    "rank": "C"
+  },
+  "tests/integration/test_architecture_ref_freshness.py": {
+    "mi": 57.495171297165825,
+    "rank": "A"
+  },
+  "tests/integration/test_diff_aware_install_e2e.py": {
+    "mi": 40.28630967654555,
+    "rank": "A"
+  },
+  "tests/integration/test_default_port_normalisation_e2e.py": {
+    "mi": 52.01702958921352,
+    "rank": "A"
+  },
+  "tests/integration/test_policy_pinned_constraint_e2e.py": {
+    "mi": 58.61444329856966,
+    "rank": "A"
+  },
+  "tests/integration/test_cursor_mcp_schema_fidelity.py": {
+    "mi": 56.98305350848937,
+    "rank": "A"
+  },
+  "tests/integration/test_tls_r2_verify.py": {
+    "mi": 52.28820562689068,
+    "rank": "A"
+  },
+  "tests/integration/test_mcp_integrator_install.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/integration/test_revision_pin_update_lifecycle.py": {
+    "mi": 28.48054179798029,
+    "rank": "A"
+  },
+  "tests/integration/test_github_downloader_validation_flow.py": {
+    "mi": 27.04445514516479,
+    "rank": "A"
+  },
+  "tests/integration/test_uninstall_dry_run_e2e.py": {
+    "mi": 55.38177043413596,
+    "rank": "A"
+  },
+  "tests/integration/test_plugin_bin_trust_posture.py": {
+    "mi": 27.366258925111627,
+    "rank": "A"
+  },
+  "tests/integration/test_shared_root_skill_contraction_e2e.py": {
+    "mi": 56.00757339296358,
+    "rank": "A"
+  },
+  "tests/integration/test_gemini_integration.py": {
+    "mi": 22.196011875904542,
+    "rank": "A"
+  },
+  "tests/integration/test_scenario_rows_contract.py": {
+    "mi": 45.04693265711796,
+    "rank": "A"
+  },
+  "tests/integration/test_pack_unpack_e2e.py": {
+    "mi": 72.32874777428358,
+    "rank": "A"
+  },
+  "tests/integration/test_wave2_commands_coverage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_wave6_validation_uninstall_coverage.py": {
+    "mi": 29.54189427081032,
+    "rank": "A"
+  },
+  "tests/integration/test_auto_install_e2e.py": {
+    "mi": 50.3331738488357,
+    "rank": "A"
+  },
+  "tests/integration/test_claude_mcp_schema_fidelity.py": {
+    "mi": 53.98545030906451,
+    "rank": "A"
+  },
+  "tests/integration/test_compile_agents_source_attribution.py": {
+    "mi": 50.35595951498818,
+    "rank": "A"
+  },
+  "tests/integration/test_mixed_deps.py": {
+    "mi": 57.35283700566057,
+    "rank": "A"
+  },
+  "tests/integration/test_dev_dependency_orphan_e2e.py": {
+    "mi": 47.61755816027729,
+    "rank": "A"
+  },
+  "tests/integration/test_deps_why_promises_e2e.py": {
+    "mi": 52.02506024923988,
+    "rank": "A"
+  },
+  "tests/integration/test_install_compile_copilot_dedup_e2e.py": {
+    "mi": 72.22001803179627,
+    "rank": "A"
+  },
+  "tests/integration/test_resolution_staging_mcp_lifecycle.py": {
+    "mi": 34.76617684931105,
+    "rank": "A"
+  },
+  "tests/integration/test_mcp_registry_e2e.py": {
+    "mi": 31.84822658434838,
+    "rank": "A"
+  },
+  "tests/integration/test_materialization_matrix_contract.py": {
+    "mi": 18.50708508692122,
+    "rank": "B"
+  },
+  "tests/integration/test_llm_runtime_integration.py": {
+    "mi": 71.08864945826123,
+    "rank": "A"
+  },
+  "tests/integration/test_wave5_e2e_coverage.py": {
+    "mi": 12.115144988525095,
+    "rank": "B"
+  },
+  "tests/integration/test_architecture_revision_pins.py": {
+    "mi": 39.399031079692215,
+    "rank": "A"
+  },
+  "tests/integration/test_claude_dependency_import_lifecycle.py": {
+    "mi": 29.010759569686993,
+    "rank": "A"
+  },
+  "tests/integration/test_install_dry_run_e2e.py": {
+    "mi": 55.705954919196714,
+    "rank": "A"
+  },
+  "tests/integration/test_apply_to_comma_e2e.py": {
+    "mi": 70.50083672964271,
+    "rank": "A"
+  },
+  "tests/integration/test_install_sources_classification.py": {
+    "mi": 33.39351278718815,
+    "rank": "A"
+  },
+  "tests/integration/test_mcp_env_var_headers_e2e.py": {
+    "mi": 74.82326319975586,
+    "rank": "A"
+  },
+  "tests/integration/test_view_coverage.py": {
+    "mi": 45.57594078254095,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_cache_cleanup.py": {
+    "mi": 56.975977593077964,
+    "rank": "A"
+  },
+  "tests/integration/test_transport_selection_integration.py": {
+    "mi": 56.51520946784285,
+    "rank": "A"
+  },
+  "tests/integration/test_integrators_validation_rules.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_cache_lockfile_parity.py": {
+    "mi": 78.71290382590118,
+    "rank": "A"
+  },
+  "tests/integration/test_mixed_case_materialization_lifecycle.py": {
+    "mi": 26.5489094733068,
+    "rank": "A"
+  },
+  "tests/integration/test_marketplace_plugin_integration.py": {
+    "mi": 19.497808171188687,
+    "rank": "A"
+  },
+  "tests/integration/test_ssh_semver_transport_contract.py": {
+    "mi": 20.552733630742825,
+    "rank": "A"
+  },
+  "tests/integration/test_deps_models_validation.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_codex_windows_toml_install.py": {
+    "mi": 46.48697800264881,
+    "rank": "A"
+  },
+  "tests/integration/test_claude_mcp_transport_lifecycle.py": {
+    "mi": 26.831992630746498,
+    "rank": "A"
+  },
+  "tests/integration/test_architecture_install_compound_mutations.py": {
+    "mi": 45.862979321199695,
+    "rank": "A"
+  },
+  "tests/integration/test_prune_failure_lifecycle.py": {
+    "mi": 32.12934556233385,
+    "rank": "A"
+  },
+  "tests/integration/test_audit_primitive_contract.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/integration/test_version_notification.py": {
+    "mi": 63.66664899546349,
+    "rank": "A"
+  },
+  "tests/integration/test_global_install_e2e.py": {
+    "mi": 48.450468785836115,
+    "rank": "A"
+  },
+  "tests/integration/policy/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/integration/policy/test_require_pinned_constraint_e2e.py": {
+    "mi": 57.384930528129615,
+    "rank": "A"
+  },
+  "tests/integration/marketplace/test_pack_ux_e2e.py": {
+    "mi": 46.717515911268805,
+    "rank": "A"
+  },
+  "tests/integration/marketplace/test_live_e2e.py": {
+    "mi": 65.42349163213069,
+    "rank": "A"
+  },
+  "tests/integration/marketplace/test_outdated_integration.py": {
+    "mi": 50.136740559525784,
+    "rank": "A"
+  },
+  "tests/integration/marketplace/test_init_integration.py": {
+    "mi": 60.87464613133456,
+    "rank": "A"
+  },
+  "tests/integration/marketplace/test_name_sanitisation_e2e.py": {
+    "mi": 63.354780159013764,
+    "rank": "A"
+  },
+  "tests/integration/marketplace/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/integration/marketplace/test_doctor_integration.py": {
+    "mi": 40.37055255883738,
+    "rank": "A"
+  },
+  "tests/integration/marketplace/conftest.py": {
+    "mi": 68.6710930299488,
+    "rank": "A"
+  },
+  "tests/integration/marketplace/test_check_integration.py": {
+    "mi": 56.46903354066323,
+    "rank": "A"
+  },
+  "tests/integration/marketplace/test_build_integration.py": {
+    "mi": 37.57824106652725,
+    "rank": "A"
+  },
+  "tests/utils/hermetic_packaged_sample.py": {
+    "mi": 72.44070180434795,
+    "rank": "A"
+  },
+  "tests/utils/artifact_snapshot.py": {
+    "mi": 31.73055147480353,
+    "rank": "A"
+  },
+  "tests/utils/isolated_apm_environment.py": {
+    "mi": 38.59718296569337,
+    "rank": "A"
+  },
+  "tests/utils/scenario_rows.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/utils/apm_lifecycle_runner.py": {
+    "mi": 51.49660453481241,
+    "rank": "A"
+  },
+  "tests/utils/git_credential_shim.py": {
+    "mi": 44.78306567356746,
+    "rank": "A"
+  },
+  "tests/utils/runtime_setup_codex.py": {
+    "mi": 41.35486882042019,
+    "rank": "A"
+  },
+  "tests/utils/git_credential_sentinel.py": {
+    "mi": 59.6846864184933,
+    "rank": "A"
+  },
+  "tests/utils/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/utils/lifecycle_state.py": {
+    "mi": 22.3084408471232,
+    "rank": "A"
+  },
+  "tests/utils/local_package.py": {
+    "mi": 8.681477141778876,
+    "rank": "C"
+  },
+  "tests/utils/local_git_http_server.py": {
+    "mi": 30.472766404784903,
+    "rank": "A"
+  },
+  "tests/utils/local_marketplace.py": {
+    "mi": 59.55098780789919,
+    "rank": "A"
+  },
+  "tests/utils/local_git_repository.py": {
+    "mi": 35.80633741208895,
+    "rank": "A"
+  },
+  "tests/utils/lifecycle_evidence.py": {
+    "mi": 30.056696912747366,
+    "rank": "A"
+  },
+  "tests/utils/local_mcp_registry.py": {
+    "mi": 41.414988755174555,
+    "rank": "A"
+  },
+  "tests/utils/unix_installer_stub.py": {
+    "mi": 38.86515988669533,
+    "rank": "A"
+  },
+  "tests/utils/constitution_fixtures.py": {
+    "mi": 75.4989556631856,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_cursor_hook_reqs.py": {
+    "mi": 63.634423345580515,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_registry_reqs.py": {
+    "mi": 95.92582561481751,
+    "rank": "A"
+  },
+  "tests/spec_conformance/gen_statement.py": {
+    "mi": 41.22736257788383,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_alias_reqs.py": {
+    "mi": 30.886589148405562,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_policy_reqs.py": {
+    "mi": 27.251898759898527,
+    "rank": "A"
+  },
+  "tests/spec_conformance/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/spec_conformance/_manifest.py": {
+    "mi": 63.496985272427054,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_mode_b_detector.py": {
+    "mi": 45.720270771358734,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_copilot_plugins_reqs.py": {
+    "mi": 40.02971189344537,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_resolution_reqs.py": {
+    "mi": 28.88108659039657,
+    "rank": "A"
+  },
+  "tests/spec_conformance/orphan_check.py": {
+    "mi": 55.377736081642325,
+    "rank": "A"
+  },
+  "tests/spec_conformance/_helpers.py": {
+    "mi": 78.00318630651991,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_gitlab_sparse_transport_reqs.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_manifest_reqs.py": {
+    "mi": 6.6910960166894515,
+    "rank": "C"
+  },
+  "tests/spec_conformance/conftest.py": {
+    "mi": 60.791719990578045,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_lockfile_reqs.py": {
+    "mi": 19.097032648895624,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_round_trip.py": {
+    "mi": 72.71311392637793,
+    "rank": "A"
+  },
+  "tests/spec_conformance/test_gen_statement.py": {
+    "mi": 43.73552855638357,
+    "rank": "A"
+  },
+  "tests/unit/test_view_command.py": {
+    "mi": 11.66356807984534,
+    "rank": "B"
+  },
+  "tests/unit/test_command_helpers.py": {
+    "mi": 28.88522649022782,
+    "rank": "A"
+  },
+  "tests/unit/_formatter_helpers.py": {
+    "mi": 96.46360895078567,
+    "rank": "A"
+  },
+  "tests/unit/test_init_plugin.py": {
+    "mi": 26.599471278079353,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_integrator_characterisation.py": {
+    "mi": 48.63535008474136,
+    "rank": "A"
+  },
+  "tests/unit/test_output_formatters_rendering.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_version_checker.py": {
+    "mi": 22.092666977071694,
+    "rank": "A"
+  },
+  "tests/unit/test_cursor_mcp.py": {
+    "mi": 40.3920070221165,
+    "rank": "A"
+  },
+  "tests/unit/test_lockfile_exec_status.py": {
+    "mi": 81.61274574140599,
+    "rank": "A"
+  },
+  "tests/unit/test_safe_installer.py": {
+    "mi": 59.348347600913726,
+    "rank": "A"
+  },
+  "tests/unit/test_runtime_detection.py": {
+    "mi": 55.62161191232562,
+    "rank": "A"
+  },
+  "tests/unit/test_reflink.py": {
+    "mi": 55.231999072225534,
+    "rank": "A"
+  },
+  "tests/unit/test_conflict_detection.py": {
+    "mi": 53.237523774617806,
+    "rank": "A"
+  },
+  "tests/unit/test_content_hash.py": {
+    "mi": 41.99211278681302,
+    "rank": "A"
+  },
+  "tests/unit/test_command_logger.py": {
+    "mi": 7.095998100139121,
+    "rank": "C"
+  },
+  "tests/unit/test_audit_deployment_owners.py": {
+    "mi": 22.29089693054044,
+    "rank": "A"
+  },
+  "tests/unit/test_uninstall_engine_phase3w5.py": {
+    "mi": 37.104843790885404,
+    "rank": "A"
+  },
+  "tests/unit/test_yaml_io.py": {
+    "mi": 22.317110600056235,
+    "rank": "A"
+  },
+  "tests/unit/test_lifecycle_executor_paths.py": {
+    "mi": 25.03170757277803,
+    "rank": "A"
+  },
+  "tests/unit/test_plugin_synthesis.py": {
+    "mi": 35.13502394873247,
+    "rank": "A"
+  },
+  "tests/unit/test_package_manager_base.py": {
+    "mi": 64.09311608864633,
+    "rank": "A"
+  },
+  "tests/unit/test_transitive_deps.py": {
+    "mi": 45.20046372989373,
+    "rank": "A"
+  },
+  "tests/unit/test_outdated_marketplace.py": {
+    "mi": 55.252758918167665,
+    "rank": "A"
+  },
+  "tests/unit/test_list_command.py": {
+    "mi": 46.08289125705232,
+    "rank": "A"
+  },
+  "tests/unit/test_deps_update_command.py": {
+    "mi": 26.096923361094557,
+    "rank": "A"
+  },
+  "tests/unit/test_audit_scan_and_render.py": {
+    "mi": 23.143796872572167,
+    "rank": "A"
+  },
+  "tests/unit/test_path_home_override.py": {
+    "mi": 87.80720539852275,
+    "rank": "A"
+  },
+  "tests/unit/test_workflow_runner_phase3w4.py": {
+    "mi": 32.46411946374369,
+    "rank": "A"
+  },
+  "tests/unit/test_install_command.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_package_identity.py": {
+    "mi": 46.523585169521894,
+    "rank": "A"
+  },
+  "tests/unit/test_symlink_containment.py": {
+    "mi": 49.24603506929803,
+    "rank": "A"
+  },
+  "tests/unit/test_install_pipeline_phase3w4.py": {
+    "mi": 47.24918073062114,
+    "rank": "A"
+  },
+  "tests/unit/test_llm_runtime.py": {
+    "mi": 65.26057956564452,
+    "rank": "A"
+  },
+  "tests/unit/test_dep_only_package.py": {
+    "mi": 49.82400318025405,
+    "rank": "A"
+  },
+  "tests/unit/test_apm_yml_registries.py": {
+    "mi": 37.099545128044824,
+    "rank": "A"
+  },
+  "tests/unit/test_governance_consumers.py": {
+    "mi": 9.129797419129602,
+    "rank": "B"
+  },
+  "tests/unit/test_codex_adapter_compatibility.py": {
+    "mi": 12.774500937445994,
+    "rank": "B"
+  },
+  "tests/unit/test_ignore_non_content.py": {
+    "mi": 48.25424473702427,
+    "rank": "A"
+  },
+  "tests/unit/test_generic_host_error_port.py": {
+    "mi": 63.36700050964965,
+    "rank": "A"
+  },
+  "tests/unit/test_init_phase3w5.py": {
+    "mi": 30.05202906688598,
+    "rank": "A"
+  },
+  "tests/unit/test_external_options.py": {
+    "mi": 61.205162757003045,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_overlays.py": {
+    "mi": 7.203698922845441,
+    "rank": "C"
+  },
+  "tests/unit/test_constitution_hash.py": {
+    "mi": 62.465050444989814,
+    "rank": "A"
+  },
+  "tests/unit/test_deps_utils.py": {
+    "mi": 17.82763505418229,
+    "rank": "B"
+  },
+  "tests/unit/test_subprocess_env.py": {
+    "mi": 72.23707122514145,
+    "rank": "A"
+  },
+  "tests/unit/test_self_update_config.py": {
+    "mi": 36.12033361122306,
+    "rank": "A"
+  },
+  "tests/unit/test_reference_registry_shorthand.py": {
+    "mi": 30.03457006719999,
+    "rank": "A"
+  },
+  "tests/unit/test_diagnostics.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_plugin_exporter.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_ssl_cert_hook.py": {
+    "mi": 66.88627107611339,
+    "rank": "A"
+  },
+  "tests/unit/test_git_reference_resolver_phase3w4.py": {
+    "mi": 34.02369671232413,
+    "rank": "A"
+  },
+  "tests/unit/test_outdated_command.py": {
+    "mi": 11.83096687046516,
+    "rank": "B"
+  },
+  "tests/unit/test_install_update_refs.py": {
+    "mi": 57.53674099460616,
+    "rank": "A"
+  },
+  "tests/unit/test_runtime_factory.py": {
+    "mi": 52.71079513430082,
+    "rank": "A"
+  },
+  "tests/unit/test_runtime_windows.py": {
+    "mi": 35.21514010761571,
+    "rank": "A"
+  },
+  "tests/unit/test_lockfile_self_entry.py": {
+    "mi": 52.028152662966576,
+    "rank": "A"
+  },
+  "tests/unit/test_security_workflow_contracts.py": {
+    "mi": 41.29970090106681,
+    "rank": "A"
+  },
+  "tests/unit/test_cli_encoding.py": {
+    "mi": 58.1613445953631,
+    "rank": "A"
+  },
+  "tests/unit/test_local_deps.py": {
+    "mi": 17.587255547810507,
+    "rank": "B"
+  },
+  "tests/unit/test_version.py": {
+    "mi": 39.97264038981145,
+    "rank": "A"
+  },
+  "tests/unit/test_audit_phase3w4.py": {
+    "mi": 32.369655687796374,
+    "rank": "A"
+  },
+  "tests/unit/test_portable_relpath.py": {
+    "mi": 58.245028653161135,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_integrator_overlay.py": {
+    "mi": 20.454030185654165,
+    "rank": "A"
+  },
+  "tests/unit/test_shared_apm_workflow_contract.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_tls_docs_scope.py": {
+    "mi": 53.613593870865294,
+    "rank": "A"
+  },
+  "tests/unit/test_redaction_helpers.py": {
+    "mi": 56.36207147062404,
+    "rank": "A"
+  },
+  "tests/unit/test_lockfile_enrichment.py": {
+    "mi": 22.174988131645822,
+    "rank": "A"
+  },
+  "tests/unit/test_runtime_args.py": {
+    "mi": 73.26279243846169,
+    "rank": "A"
+  },
+  "tests/unit/test_exclude.py": {
+    "mi": 50.37842136927894,
+    "rank": "A"
+  },
+  "tests/unit/test_transitive_mcp.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_view_versions.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/test_kiro_mcp.py": {
+    "mi": 25.12513446989207,
+    "rank": "A"
+  },
+  "tests/unit/test_drift_registry.py": {
+    "mi": 51.604420472470714,
+    "rank": "A"
+  },
+  "tests/unit/test_install_update.py": {
+    "mi": 12.698288206911252,
+    "rank": "B"
+  },
+  "tests/unit/test_ssh_user_threading.py": {
+    "mi": 60.23883940797343,
+    "rank": "A"
+  },
+  "tests/unit/test_dep_targets_persistence.py": {
+    "mi": 36.842556718633986,
+    "rank": "A"
+  },
+  "tests/unit/test_registry_operations_state.py": {
+    "mi": 22.71947200090046,
+    "rank": "A"
+  },
+  "tests/unit/test_vscode_adapter.py": {
+    "mi": 13.019469172606494,
+    "rank": "B"
+  },
+  "tests/unit/test_update_policy.py": {
+    "mi": 53.08344351825153,
+    "rank": "A"
+  },
+  "tests/unit/test_codex_runtime.py": {
+    "mi": 53.66988388257624,
+    "rank": "A"
+  },
+  "tests/unit/test_windows_compat_gate_workflow.py": {
+    "mi": 43.76933812066054,
+    "rank": "A"
+  },
+  "tests/unit/test_script_formatters.py": {
+    "mi": 62.22409641495794,
+    "rank": "A"
+  },
+  "tests/unit/test_update_command.py": {
+    "mi": 38.594385167031156,
+    "rank": "A"
+  },
+  "tests/unit/test_thread_safety.py": {
+    "mi": 52.71581364885943,
+    "rank": "A"
+  },
+  "tests/unit/test_script_runner.py": {
+    "mi": 19.266478122966213,
+    "rank": "A"
+  },
+  "tests/unit/test_skill_subset_persistence.py": {
+    "mi": 14.451669285653956,
+    "rank": "B"
+  },
+  "tests/unit/test_cli_docs_contract.py": {
+    "mi": 38.87219255341286,
+    "rank": "A"
+  },
+  "tests/unit/test_workflow_actor_contract.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_unix_installer_checksums.py": {
+    "mi": 12.805277046652751,
+    "rank": "B"
+  },
+  "tests/unit/test_registry_integration.py": {
+    "mi": 55.74363440479686,
+    "rank": "A"
+  },
+  "tests/unit/test_build_mcp_entry.py": {
+    "mi": 45.38891612057975,
+    "rank": "A"
+  },
+  "tests/unit/test_prune_command.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_plugin_exporter_compatibility.py": {
+    "mi": 30.032046090204247,
+    "rank": "A"
+  },
+  "tests/unit/test_cli_consistency.py": {
+    "mi": 44.475886132256164,
+    "rank": "A"
+  },
+  "tests/unit/test_download_strategies.py": {
+    "mi": 51.44079606533719,
+    "rank": "A"
+  },
+  "tests/unit/test_registry_client_http_cache.py": {
+    "mi": 63.50902293575027,
+    "rank": "A"
+  },
+  "tests/unit/test_opencode_mcp.py": {
+    "mi": 32.52902424138524,
+    "rank": "A"
+  },
+  "tests/unit/test_plugin_exporter_schema.py": {
+    "mi": 63.41443459047809,
+    "rank": "A"
+  },
+  "tests/unit/test_package_manager.py": {
+    "mi": 77.89147768562744,
+    "rank": "A"
+  },
+  "tests/unit/test_models_validation_phase3.py": {
+    "mi": 4.438953064937093,
+    "rank": "C"
+  },
+  "tests/unit/test_registry_operations_phase3.py": {
+    "mi": 17.55318239480322,
+    "rank": "B"
+  },
+  "tests/unit/test_copilot_adapter_phase3.py": {
+    "mi": 22.100805028961847,
+    "rank": "A"
+  },
+  "tests/unit/test_security_file_scanner.py": {
+    "mi": 33.043320074143345,
+    "rank": "A"
+  },
+  "tests/unit/test_list_remote_refs.py": {
+    "mi": 22.05744150751039,
+    "rank": "A"
+  },
+  "tests/unit/test_git_parent_resolver.py": {
+    "mi": 31.78221721367066,
+    "rank": "A"
+  },
+  "tests/unit/test_protocol_config_precedence.py": {
+    "mi": 50.96244326044008,
+    "rank": "A"
+  },
+  "tests/unit/test_codex_adapter_phase3.py": {
+    "mi": 8.077821508025188,
+    "rank": "C"
+  },
+  "tests/unit/test_lockfile_declared_license.py": {
+    "mi": 83.7769983646944,
+    "rank": "A"
+  },
+  "tests/unit/test_copilot_runtime.py": {
+    "mi": 45.554674899128294,
+    "rank": "A"
+  },
+  "tests/unit/test_lockfile_git_parent_expanded.py": {
+    "mi": 41.577621573727676,
+    "rank": "A"
+  },
+  "tests/unit/test_runtime_manager.py": {
+    "mi": 17.59837685162899,
+    "rank": "B"
+  },
+  "tests/unit/test_orphan_announce_parity.py": {
+    "mi": 68.31555104494686,
+    "rank": "A"
+  },
+  "tests/unit/test_surviving_deps_reintegration.py": {
+    "mi": 22.49580651635773,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_from_dict_unknown_keys.py": {
+    "mi": 19.814716222613313,
+    "rank": "A"
+  },
+  "tests/unit/test_homebrew_onboarding.py": {
+    "mi": 41.40702353100234,
+    "rank": "A"
+  },
+  "tests/unit/test_enterprise_bootstrap_installers.py": {
+    "mi": 36.65306872725032,
+    "rank": "A"
+  },
+  "tests/unit/test_uninstall_dev_dependencies.py": {
+    "mi": 52.13174507539073,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_lifecycle_e2e.py": {
+    "mi": 27.95502333071297,
+    "rank": "A"
+  },
+  "tests/unit/test_drift_detection.py": {
+    "mi": 45.59444265508102,
+    "rank": "A"
+  },
+  "tests/unit/test_view_command_phase3w5.py": {
+    "mi": 36.61295440035961,
+    "rank": "A"
+  },
+  "tests/unit/test_skill_bundle.py": {
+    "mi": 30.012477765664407,
+    "rank": "A"
+  },
+  "tests/unit/test_github_host.py": {
+    "mi": 2.1298032501541475,
+    "rank": "C"
+  },
+  "tests/unit/test_outdated_phase3w5.py": {
+    "mi": 22.089541551999837,
+    "rank": "A"
+  },
+  "tests/unit/test_config.py": {
+    "mi": 30.350718319300434,
+    "rank": "A"
+  },
+  "tests/unit/test_windows_native_symlink_probe.py": {
+    "mi": 24.591904896234187,
+    "rank": "A"
+  },
+  "tests/unit/test_env_variables.py": {
+    "mi": 70.2249312342904,
+    "rank": "A"
+  },
+  "tests/unit/test_reflink_phase3w5.py": {
+    "mi": 33.163875743162514,
+    "rank": "A"
+  },
+  "tests/unit/test_uninstall_shared_ownership.py": {
+    "mi": 45.143868457265555,
+    "rank": "A"
+  },
+  "tests/unit/test_target_filter.py": {
+    "mi": 40.13502515637102,
+    "rank": "A"
+  },
+  "tests/unit/test_uninstall_shared_diamond_dependency.py": {
+    "mi": 56.51912529399389,
+    "rank": "A"
+  },
+  "tests/unit/test_workflow_runner_branch_coverage.py": {
+    "mi": 32.46411946374369,
+    "rank": "A"
+  },
+  "tests/unit/test_docker_args_and_installer.py": {
+    "mi": 63.961423281642034,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_integrator_install_phase3w4.py": {
+    "mi": 41.5492967206522,
+    "rank": "A"
+  },
+  "tests/unit/test_runtime_setup_codex_script.py": {
+    "mi": 23.488173253293883,
+    "rank": "A"
+  },
+  "tests/unit/test_uninstall_engine_helpers.py": {
+    "mi": 6.208064505092919,
+    "rank": "C"
+  },
+  "tests/unit/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/test_python_paths.py": {
+    "mi": 85.90132197762001,
+    "rank": "A"
+  },
+  "tests/unit/test_plugin.py": {
+    "mi": 85.65135180304033,
+    "rank": "A"
+  },
+  "tests/unit/test_deps_clean_command.py": {
+    "mi": 45.544869947553146,
+    "rank": "A"
+  },
+  "tests/unit/test_skip_env_prompts.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/test_global_mcp_scope.py": {
+    "mi": 48.7595719582931,
+    "rank": "A"
+  },
+  "tests/unit/test_scoped_mcp_server_names.py": {
+    "mi": 45.92077839668955,
+    "rank": "A"
+  },
+  "tests/unit/test_azure_cli.py": {
+    "mi": 49.36205587930237,
+    "rank": "A"
+  },
+  "tests/unit/test_self_entry_caller_guards.py": {
+    "mi": 75.08977034228852,
+    "rank": "A"
+  },
+  "tests/unit/test_compile_rich_output.py": {
+    "mi": 85.18831599317616,
+    "rank": "A"
+  },
+  "tests/unit/test_plugin_parser.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_generic_git_urls.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_shepherd_driver_completion_schema.py": {
+    "mi": 43.07153557871312,
+    "rank": "A"
+  },
+  "tests/unit/test_windsurf_adapter.py": {
+    "mi": 83.8894090383012,
+    "rank": "A"
+  },
+  "tests/unit/test_audit_fail_on_drift.py": {
+    "mi": 75.93534793234288,
+    "rank": "A"
+  },
+  "tests/unit/test_unpack_security.py": {
+    "mi": 53.53508628545833,
+    "rank": "A"
+  },
+  "tests/unit/test_packer.py": {
+    "mi": 4.083295387570051,
+    "rank": "C"
+  },
+  "tests/unit/test_outdated_marketplace_detection.py": {
+    "mi": 31.66954053039271,
+    "rank": "A"
+  },
+  "tests/unit/test_external_runner.py": {
+    "mi": 51.43307712060281,
+    "rank": "A"
+  },
+  "tests/unit/test_copilot_adapter.py": {
+    "mi": 39.36599706117935,
+    "rank": "A"
+  },
+  "tests/unit/test_platform_contract_workflow.py": {
+    "mi": 24.577268107847964,
+    "rank": "A"
+  },
+  "tests/unit/test_git_cache_branch_coverage.py": {
+    "mi": 33.92554472461797,
+    "rank": "A"
+  },
+  "tests/unit/test_apm_spec_guardian_synthesizer_schema.py": {
+    "mi": 65.29004463788226,
+    "rank": "A"
+  },
+  "tests/unit/test_dev_dependencies.py": {
+    "mi": 22.426683780141833,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_command.py": {
+    "mi": 15.901319656630022,
+    "rank": "B"
+  },
+  "tests/unit/test_git_parent_reference.py": {
+    "mi": 33.26915949667117,
+    "rank": "A"
+  },
+  "tests/unit/test_deps_reachability.py": {
+    "mi": 42.157368587650154,
+    "rank": "A"
+  },
+  "tests/unit/test_integration_binary_path_contract.py": {
+    "mi": 30.555266220376677,
+    "rank": "A"
+  },
+  "tests/unit/test_local_content_install.py": {
+    "mi": 44.92980956610472,
+    "rank": "A"
+  },
+  "tests/unit/test_auth.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_windows_native_symlink_workflow.py": {
+    "mi": 39.69212927513667,
+    "rank": "A"
+  },
+  "tests/unit/test_install_pipeline_orchestration.py": {
+    "mi": 44.045683297759446,
+    "rank": "A"
+  },
+  "tests/unit/test_build_sha.py": {
+    "mi": 47.16691469996786,
+    "rank": "A"
+  },
+  "tests/unit/test_init_command_selection.py": {
+    "mi": 30.05202906688598,
+    "rank": "A"
+  },
+  "tests/unit/test_audit_report.py": {
+    "mi": 25.291564373999996,
+    "rank": "A"
+  },
+  "tests/unit/test_apm_package.py": {
+    "mi": 27.453963083771907,
+    "rank": "A"
+  },
+  "tests/unit/test_install_output.py": {
+    "mi": 50.04523801782906,
+    "rank": "A"
+  },
+  "tests/unit/test_deps_list_tree_info.py": {
+    "mi": 16.87827074740837,
+    "rank": "B"
+  },
+  "tests/unit/test_auth_command.py": {
+    "mi": 28.24783127746494,
+    "rank": "A"
+  },
+  "tests/unit/test_reflink_filesystem_support.py": {
+    "mi": 33.163875743162514,
+    "rank": "A"
+  },
+  "tests/unit/test_security_gate.py": {
+    "mi": 39.25606339342885,
+    "rank": "A"
+  },
+  "tests/unit/test_models_validation_rules.py": {
+    "mi": 1.8683717017302144,
+    "rank": "C"
+  },
+  "tests/unit/test_unpacker.py": {
+    "mi": 12.561066249055553,
+    "rank": "B"
+  },
+  "tests/unit/test_selective_install.py": {
+    "mi": 70.71931594311914,
+    "rank": "A"
+  },
+  "tests/unit/test_install_scanning.py": {
+    "mi": 38.86635709836785,
+    "rank": "A"
+  },
+  "tests/unit/test_alias_traversal.py": {
+    "mi": 55.15390041536088,
+    "rank": "A"
+  },
+  "tests/unit/test_intellij_mcp.py": {
+    "mi": 14.938158466411052,
+    "rank": "B"
+  },
+  "tests/unit/test_add_mcp_to_apm_yml.py": {
+    "mi": 37.36536353438877,
+    "rank": "A"
+  },
+  "tests/unit/test_format_detection.py": {
+    "mi": 19.07199445740194,
+    "rank": "A"
+  },
+  "tests/unit/test_lockfile_v2_bump.py": {
+    "mi": 42.09775277991477,
+    "rank": "A"
+  },
+  "tests/unit/test_git_cache_phase3w4.py": {
+    "mi": 33.92554472461797,
+    "rank": "A"
+  },
+  "tests/unit/test_deps.py": {
+    "mi": 75.4416187231448,
+    "rank": "A"
+  },
+  "tests/unit/test_github_downloader_temp_dir.py": {
+    "mi": 57.9137983935384,
+    "rank": "A"
+  },
+  "tests/unit/test_windows_unit_diagnostics.py": {
+    "mi": 33.015293161064314,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_integrator_phase3w4.py": {
+    "mi": 20.454030185654165,
+    "rank": "A"
+  },
+  "tests/unit/test_integration_coverage.py": {
+    "mi": 60.460003461453056,
+    "rank": "A"
+  },
+  "tests/unit/test_path_security.py": {
+    "mi": 30.229555401850142,
+    "rank": "A"
+  },
+  "tests/unit/test_view_command_cli_surface.py": {
+    "mi": 33.87271618259477,
+    "rank": "A"
+  },
+  "tests/unit/test_copilot_adapter_compatibility.py": {
+    "mi": 26.925626940386547,
+    "rank": "A"
+  },
+  "tests/unit/test_config_command.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_build_spec.py": {
+    "mi": 47.880108573290336,
+    "rank": "A"
+  },
+  "tests/unit/test_isolated_network_guard.py": {
+    "mi": 43.291535417455705,
+    "rank": "A"
+  },
+  "tests/unit/test_registry_client.py": {
+    "mi": 35.53732928467866,
+    "rank": "A"
+  },
+  "tests/unit/test_audit_ci_auto_discovery.py": {
+    "mi": 48.536826454557485,
+    "rank": "A"
+  },
+  "tests/unit/test_ado_live_workflow_contract.py": {
+    "mi": 36.082560419424816,
+    "rank": "A"
+  },
+  "tests/unit/test_governance_evidence.py": {
+    "mi": 32.56869571291959,
+    "rank": "A"
+  },
+  "tests/unit/test_docker_args.py": {
+    "mi": 61.61573533159334,
+    "rank": "A"
+  },
+  "tests/unit/test_artifactory_support.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_transport_selection.py": {
+    "mi": 21.429629165001156,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_integrator_install_hermetic.py": {
+    "mi": 34.72633312348688,
+    "rank": "A"
+  },
+  "tests/unit/test_triage_advisory.py": {
+    "mi": 24.69917332725058,
+    "rank": "A"
+  },
+  "tests/unit/test_external_scanners.py": {
+    "mi": 42.158792965539675,
+    "rank": "A"
+  },
+  "tests/unit/test_triage_panel_lock.py": {
+    "mi": 26.572389804998203,
+    "rank": "A"
+  },
+  "tests/unit/test_install_hook_transparency.py": {
+    "mi": 43.118917389911886,
+    "rank": "A"
+  },
+  "tests/unit/test_uninstall_engine_validation.py": {
+    "mi": 34.634258668841525,
+    "rank": "A"
+  },
+  "tests/unit/test_gemini_mcp.py": {
+    "mi": 33.61807536931971,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_client_factory.py": {
+    "mi": 36.467816133278816,
+    "rank": "A"
+  },
+  "tests/unit/test_orphan_detection.py": {
+    "mi": 48.58398320956275,
+    "rank": "A"
+  },
+  "tests/unit/test_windows_installer_launchers.py": {
+    "mi": 51.87339161315996,
+    "rank": "A"
+  },
+  "tests/unit/test_audit_ci_command.py": {
+    "mi": 26.806486286548044,
+    "rank": "A"
+  },
+  "tests/unit/test_bundle_formats.py": {
+    "mi": 51.80677120574063,
+    "rank": "A"
+  },
+  "tests/unit/test_uninstall_reintegration.py": {
+    "mi": 45.4304450790553,
+    "rank": "A"
+  },
+  "tests/unit/test_shepherd_driver_evals.py": {
+    "mi": 46.90830265591731,
+    "rank": "A"
+  },
+  "tests/unit/test_git_reference_resolver_resolution.py": {
+    "mi": 34.02369671232413,
+    "rank": "A"
+  },
+  "tests/unit/test_stale_file_detection.py": {
+    "mi": 85.82674492439288,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_integrator_coverage.py": {
+    "mi": 47.71407876225346,
+    "rank": "A"
+  },
+  "tests/unit/test_agent_plugins.py": {
+    "mi": 16.58384986653523,
+    "rank": "B"
+  },
+  "tests/unit/test_triage_fetch_queue.py": {
+    "mi": 22.93809599914275,
+    "rank": "A"
+  },
+  "tests/unit/test_mcp_integrator_remove_stale.py": {
+    "mi": 20.328352505667254,
+    "rank": "A"
+  },
+  "tests/unit/test_guardrailing_hero_topology.py": {
+    "mi": 34.62749845836783,
+    "rank": "A"
+  },
+  "tests/unit/test_claude_mcp.py": {
+    "mi": 31.66472153088532,
+    "rank": "A"
+  },
+  "tests/unit/test_helpers.py": {
+    "mi": 27.44193257425704,
+    "rank": "A"
+  },
+  "tests/unit/test_registry_entry_alias_traversal.py": {
+    "mi": 67.09125178642674,
+    "rank": "A"
+  },
+  "tests/unit/test_file_ops.py": {
+    "mi": 24.99728783731376,
+    "rank": "A"
+  },
+  "tests/unit/test_ado_path_structure.py": {
+    "mi": 23.161815170402008,
+    "rank": "A"
+  },
+  "tests/unit/test_lifecycle_cli.py": {
+    "mi": 47.07704431210147,
+    "rank": "A"
+  },
+  "tests/unit/test_audit_command.py": {
+    "mi": 23.167308816032342,
+    "rank": "A"
+  },
+  "tests/unit/test_content_scanner.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_docs_contract_workflow.py": {
+    "mi": 43.524438372892526,
+    "rank": "A"
+  },
+  "tests/unit/test_install_tui.py": {
+    "mi": 51.579642837067176,
+    "rank": "A"
+  },
+  "tests/unit/test_windows_signing_contract.py": {
+    "mi": 63.2814250125315,
+    "rank": "A"
+  },
+  "tests/unit/test_dependency_types.py": {
+    "mi": 43.93178537038678,
+    "rank": "A"
+  },
+  "tests/unit/test_console_utils.py": {
+    "mi": 28.15403148144903,
+    "rank": "A"
+  },
+  "tests/unit/test_canonicalization.py": {
+    "mi": 1.128643929881264,
+    "rank": "C"
+  },
+  "tests/unit/test_skillspector_llm.py": {
+    "mi": 52.389355264569794,
+    "rank": "A"
+  },
+  "tests/unit/test_public_release_metadata.py": {
+    "mi": 7.40936629561309,
+    "rank": "C"
+  },
+  "tests/unit/test_cli_lazy_dispatch.py": {
+    "mi": 48.77041834175976,
+    "rank": "A"
+  },
+  "tests/unit/test_auth_scoping.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_shepherd_owner_touch_gate.py": {
+    "mi": 14.427805499885743,
+    "rank": "B"
+  },
+  "tests/unit/test_install_path_declaration_invariant.py": {
+    "mi": 76.80374799047883,
+    "rank": "A"
+  },
+  "tests/unit/test_protocol_fallback_warning.py": {
+    "mi": 40.904825150394295,
+    "rank": "A"
+  },
+  "tests/unit/test_uninstall_transitive_cleanup.py": {
+    "mi": 33.012780534943346,
+    "rank": "A"
+  },
+  "tests/unit/test_github_mcp_auth_policy.py": {
+    "mi": 34.93295699307206,
+    "rank": "A"
+  },
+  "tests/unit/test_bootstrap_mirror.py": {
+    "mi": 59.73487836182766,
+    "rank": "A"
+  },
+  "tests/unit/test_init_command.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/test_plugin_exporter_phase3w5.py": {
+    "mi": 30.032046090204247,
+    "rank": "A"
+  },
+  "tests/unit/test_collection_migration_error.py": {
+    "mi": 68.55739800331675,
+    "rank": "A"
+  },
+  "tests/unit/test_agent_plugin_exporter.py": {
+    "mi": 10.995240264620604,
+    "rank": "B"
+  },
+  "tests/unit/test_audit_policy_command.py": {
+    "mi": 43.63079226527019,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_policy_serialization_properties.py": {
+    "mi": 30.155288966655203,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_help_consistency.py": {
+    "mi": 67.90019354051327,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_cache_atomicity.py": {
+    "mi": 56.32093779230813,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_ci_skill_subset_replay.py": {
+    "mi": 35.167799355117715,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_fetch_failure_knob.py": {
+    "mi": 44.66889135054632,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_matcher.py": {
+    "mi": 54.74155285271795,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_discovery.py": {
+    "mi": 2.218306050451101,
+    "rank": "C"
+  },
+  "tests/unit/policy/test_policy_checks.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/policy/test_integration_pinned_constraint.py": {
+    "mi": 55.692016285537186,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_parser.py": {
+    "mi": 30.411592219682078,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_fixtures.py": {
+    "mi": 71.7407923522983,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_extends_host_pin.py": {
+    "mi": 56.55709559357873,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_discovery_phase3w4.py": {
+    "mi": 18.05265450158197,
+    "rank": "B"
+  },
+  "tests/unit/policy/test_pr_832_findings.py": {
+    "mi": 56.45382297761032,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_ci_checks.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/policy/test_schema_pinned_constraint.py": {
+    "mi": 55.548625094879306,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_discovery_policy_resolution.py": {
+    "mi": 13.929123480346352,
+    "rank": "B"
+  },
+  "tests/unit/policy/test_integrity_keys.py": {
+    "mi": 63.97675044517767,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_cache_merged_effective.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/policy/test_schema.py": {
+    "mi": 59.659157380208526,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_dependency_identity_case.py": {
+    "mi": 27.98506831285108,
+    "rank": "A"
+  },
+  "tests/unit/policy/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_pinned_constraint.py": {
+    "mi": 58.12924279678563,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_inheritance.py": {
+    "mi": 22.497786485000088,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_policy_golden.py": {
+    "mi": 75.49380573674544,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_policy_hash_pin.py": {
+    "mi": 29.20408118073053,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_chain_discovery_shared.py": {
+    "mi": 38.17966497024538,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_scanner_governance.py": {
+    "mi": 63.749581371015445,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_dependency_policy_index.py": {
+    "mi": 42.66416421246281,
+    "rank": "A"
+  },
+  "tests/unit/policy/test_run_dependency_policy_checks.py": {
+    "mi": 15.35790143104158,
+    "rank": "B"
+  },
+  "tests/unit/registry/test_extractor.py": {
+    "mi": 40.73367686622988,
+    "rank": "A"
+  },
+  "tests/unit/registry/test_resolver.py": {
+    "mi": 34.200959495056125,
+    "rank": "A"
+  },
+  "tests/unit/registry/test_config_loader.py": {
+    "mi": 60.3680074438964,
+    "rank": "A"
+  },
+  "tests/unit/registry/test_outdated.py": {
+    "mi": 29.54968672219923,
+    "rank": "A"
+  },
+  "tests/unit/registry/test_client.py": {
+    "mi": 29.789120088446413,
+    "rank": "A"
+  },
+  "tests/unit/registry/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/registry/test_auth.py": {
+    "mi": 35.30727977384228,
+    "rank": "A"
+  },
+  "tests/unit/registry/test_compat_matrix.py": {
+    "mi": 46.57974121074494,
+    "rank": "A"
+  },
+  "tests/unit/registry/test_outdated_reporting.py": {
+    "mi": 39.47059477548428,
+    "rank": "A"
+  },
+  "tests/unit/registry/test_resolver_e2e_http.py": {
+    "mi": 47.172710587375775,
+    "rank": "A"
+  },
+  "tests/unit/registry/test_semver.py": {
+    "mi": 62.1650472305815,
+    "rank": "A"
+  },
+  "tests/unit/security/test_exec_vocab_unification.py": {
+    "mi": 39.54721056488897,
+    "rank": "A"
+  },
+  "tests/unit/security/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/security/test_resolve_exec_decision.py": {
+    "mi": 31.726283932289338,
+    "rank": "A"
+  },
+  "tests/unit/security/test_executables.py": {
+    "mi": 3.4498102431024993,
+    "rank": "C"
+  },
+  "tests/unit/compilation/test_compile_target_scaling_2482.py": {
+    "mi": 36.23854799637898,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_compile_no_dedup_flag.py": {
+    "mi": 40.46589023749065,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_context_optimizer_cache_and_placement.py": {
+    "mi": 59.240758398413035,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_global_instructions_1072.py": {
+    "mi": 36.160665753118046,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_claude_formatter.py": {
+    "mi": 6.91788727003667,
+    "rank": "C"
+  },
+  "tests/unit/compilation/test_global_claude_protection.py": {
+    "mi": 37.48940065099701,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_link_resolver_phase3.py": {
+    "mi": 21.793944208781987,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_agents_compiler_coverage.py": {
+    "mi": 27.837269469738942,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_context_optimizer_iterdir_indexes.py": {
+    "mi": 28.688016245960917,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_coverage_guarantees.py": {
+    "mi": 42.56068206500441,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_agents_footer_2689.py": {
+    "mi": 45.86705233936451,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_distributed_compiler_phase3.py": {
+    "mi": 8.722538141679467,
+    "rank": "C"
+  },
+  "tests/unit/compilation/test_gemini_formatter.py": {
+    "mi": 51.56676280874838,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_managed_section.py": {
+    "mi": 20.48843533424082,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_agents_compiler_phase3.py": {
+    "mi": 26.35283970009974,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_agents_compiler_branches.py": {
+    "mi": 26.35283970009974,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_sibling_directory_coverage.py": {
+    "mi": 65.85691045036023,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_context_optimizer_phase3.py": {
+    "mi": 9.020878592989398,
+    "rank": "B"
+  },
+  "tests/unit/compilation/test_empty_agents_shells_1730.py": {
+    "mi": 33.92771647175292,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_agents_md_source_attribution_2634.py": {
+    "mi": 56.88355022501215,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_watcher_events.py": {
+    "mi": 33.641170306666695,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_context_optimizer.py": {
+    "mi": 3.7657446606439904,
+    "rank": "C"
+  },
+  "tests/unit/compilation/test_compile_cli_surface.py": {
+    "mi": 18.70459823486482,
+    "rank": "B"
+  },
+  "tests/unit/compilation/test_compile_target_flag.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/compilation/test_stale_claude_md_cleanup_1729.py": {
+    "mi": 35.45368476302868,
+    "rank": "A"
+  },
+  "tests/unit/compilation/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_output_writer.py": {
+    "mi": 66.91589479995235,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_token_overhead_opt_in.py": {
+    "mi": 51.63267107849609,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_compile_cli_phase3.py": {
+    "mi": 21.35257811467738,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_compile_clean_last_primitive_2130.py": {
+    "mi": 44.465760617876064,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_claude_dependency_roots.py": {
+    "mi": 21.658908143504657,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_constitution_injector.py": {
+    "mi": 28.818474305414483,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_build_id.py": {
+    "mi": 71.40204318702199,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_distributed_compiler_hermetic.py": {
+    "mi": 8.795925177097118,
+    "rank": "C"
+  },
+  "tests/unit/compilation/test_constitution.py": {
+    "mi": 61.32950757002239,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_user_root_context.py": {
+    "mi": 25.56063183668576,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_link_resolver_resolution.py": {
+    "mi": 24.949549698802496,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_compile_global_flag.py": {
+    "mi": 19.975261781725024,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_mathematical_guarantees.py": {
+    "mi": 53.05534692606381,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_link_resolver.py": {
+    "mi": 27.252641536851566,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_compilation.py": {
+    "mi": 45.45574917059765,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_context_optimizer_single_walk.py": {
+    "mi": 19.05764329518086,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_context_optimizer_branches.py": {
+    "mi": 9.020878592989398,
+    "rank": "B"
+  },
+  "tests/unit/compilation/test_project_root_context_protection.py": {
+    "mi": 0.9326987124129985,
+    "rank": "C"
+  },
+  "tests/unit/compilation/test_compile_inventory.py": {
+    "mi": 41.32680410972533,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_mathematical_optimization.py": {
+    "mi": 35.53526598656736,
+    "rank": "A"
+  },
+  "tests/unit/compilation/test_watcher_phase3.py": {
+    "mi": 33.641170306666695,
+    "rank": "A"
+  },
+  "tests/unit/runtime/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/runtime/test_runtime_utils.py": {
+    "mi": 49.44183973785429,
+    "rank": "A"
+  },
+  "tests/unit/workflow/test_workflow.py": {
+    "mi": 44.0366641960299,
+    "rank": "A"
+  },
+  "tests/unit/workflow/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/regressions/test_issue_2549_global_dry_run.py": {
+    "mi": 35.4115734391292,
+    "rank": "A"
+  },
+  "tests/unit/regressions/test_issue_2551_mcp_uninstall_cleanup.py": {
+    "mi": 46.48047934577637,
+    "rank": "A"
+  },
+  "tests/unit/primitives/test_primitives.py": {
+    "mi": 48.633774489064464,
+    "rank": "A"
+  },
+  "tests/unit/primitives/test_discovery_walk.py": {
+    "mi": 43.219368221052044,
+    "rank": "A"
+  },
+  "tests/unit/primitives/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/primitives/test_discovery_parser.py": {
+    "mi": 18.495009752165725,
+    "rank": "B"
+  },
+  "tests/unit/deps/test_clone_connect_retry.py": {
+    "mi": 37.70142102183242,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_lsp_dependency.py": {
+    "mi": 38.40218546462962,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_github_downloader_error_handling.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/deps/test_github_downloader_validation.py": {
+    "mi": 28.90981792597977,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_download_strategies_phase3.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/deps/test_clone_engine_bearer_env.py": {
+    "mi": 41.690592404784795,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_apm_resolver_phase3.py": {
+    "mi": 22.68078501403826,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_apm_resolver_staging_paths.py": {
+    "mi": 53.717422991362824,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_host_backends.py": {
+    "mi": 35.06468275639539,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_lockfile_deployment_paths.py": {
+    "mi": 55.70889944234394,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_github_downloader_validation_phase3.py": {
+    "mi": 28.800618003627726,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_immutable_requirement_conflicts.py": {
+    "mi": 24.592239647667657,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_lockfile_git_semver.py": {
+    "mi": 48.674445975128236,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_apm_resolver_edge_cases.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/deps/test_shared_clone_cache.py": {
+    "mi": 1.8050414557427996,
+    "rank": "C"
+  },
+  "tests/unit/deps/test_plugin_parser_lsp.py": {
+    "mi": 25.05815615666467,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_download_strategies_selection.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/deps/test_lockfile_field_properties.py": {
+    "mi": 37.52964160471593,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_dependency_tree_lookup.py": {
+    "mi": 60.760019684395104,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_git_semver_resolver.py": {
+    "mi": 46.78956157964331,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_aggregator.py": {
+    "mi": 41.52276915363683,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_revision_pin_resolver.py": {
+    "mi": 27.16997786033534,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_package_validator_phase3.py": {
+    "mi": 27.436211338213713,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_package_validator_validation.py": {
+    "mi": 27.436211338213713,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_apm_resolver_parallel.py": {
+    "mi": 42.25456030452003,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_git_reference_resolver.py": {
+    "mi": 34.07900254067803,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_why_walker.py": {
+    "mi": 58.64848025273388,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_lockfile_consumer_contract.py": {
+    "mi": 24.571104605927843,
+    "rank": "A"
+  },
+  "tests/unit/deps/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_outdated_ref_cache.py": {
+    "mi": 56.5425940159878,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_shared.py": {
+    "mi": 33.08032309170329,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_path_anchoring.py": {
+    "mi": 55.315000201780705,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_stamp_plugin_version.py": {
+    "mi": 62.148813000739906,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_git_auth_env.py": {
+    "mi": 40.50290654690139,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_github_downloader_single_file_sha.py": {
+    "mi": 52.733464828356404,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_gitlab_sparse_transport_contract.py": {
+    "mi": 16.030302035499858,
+    "rank": "B"
+  },
+  "tests/unit/deps/test_initial_transport_scheme.py": {
+    "mi": 46.29615833443932,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_artifactory_orchestrator.py": {
+    "mi": 45.02789497314151,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_github_downloader_input_validation.py": {
+    "mi": 23.418163663189297,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_github_rate_limit.py": {
+    "mi": 50.41729085152602,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_git_remote_ops.py": {
+    "mi": 34.92732058668085,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_bare_cache_clone_failure.py": {
+    "mi": 39.9207854615187,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_github_downloader_gitlab_routing.py": {
+    "mi": 51.98537988671581,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_tiered_ref_resolver.py": {
+    "mi": 21.920669095978518,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_bare_cache_sparse.py": {
+    "mi": 56.570723748172966,
+    "rank": "A"
+  },
+  "tests/unit/deps/test_github_downloader_phase3.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/deps/test_github_throttle_fallback.py": {
+    "mi": 29.337446048936094,
+    "rank": "A"
+  },
+  "tests/unit/core/test_null_logger.py": {
+    "mi": 50.198401937310514,
+    "rank": "A"
+  },
+  "tests/unit/core/test_script_runner_execution.py": {
+    "mi": 2.667354009236207,
+    "rank": "C"
+  },
+  "tests/unit/core/test_error_renderer.py": {
+    "mi": 64.15322897055142,
+    "rank": "A"
+  },
+  "tests/unit/core/test_auth_validation.py": {
+    "mi": 14.101563232371939,
+    "rank": "B"
+  },
+  "tests/unit/core/test_token_manager_lifecycle.py": {
+    "mi": 18.624517868932404,
+    "rank": "B"
+  },
+  "tests/unit/core/test_host_providers.py": {
+    "mi": 29.6528086224969,
+    "rank": "A"
+  },
+  "tests/unit/core/test_public_github_anonymous_first.py": {
+    "mi": 5.484470824382392,
+    "rank": "C"
+  },
+  "tests/unit/core/test_output_mode.py": {
+    "mi": 60.00423733775426,
+    "rank": "A"
+  },
+  "tests/unit/core/test_target_catalog.py": {
+    "mi": 27.761687942229283,
+    "rank": "A"
+  },
+  "tests/unit/core/test_script_runner_phase3.py": {
+    "mi": 3.3424429433731455,
+    "rank": "C"
+  },
+  "tests/unit/core/test_target_detection.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/core/test_experimental.py": {
+    "mi": 33.84050281152831,
+    "rank": "A"
+  },
+  "tests/unit/core/test_token_manager_phase3.py": {
+    "mi": 16.65328311158267,
+    "rank": "B"
+  },
+  "tests/unit/core/test_plugin_manifest.py": {
+    "mi": 14.812217748706056,
+    "rank": "B"
+  },
+  "tests/unit/core/test_scope.py": {
+    "mi": 28.643718675654682,
+    "rank": "A"
+  },
+  "tests/unit/core/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/core/test_github_mcp_auth.py": {
+    "mi": 55.96172549537643,
+    "rank": "A"
+  },
+  "tests/unit/core/test_effective_target_decision.py": {
+    "mi": 33.84582318922308,
+    "rank": "A"
+  },
+  "tests/unit/core/test_lifecycle_scripts.py": {
+    "mi": 16.519491927146362,
+    "rank": "B"
+  },
+  "tests/unit/core/test_auth_credential_selection_equivalence.py": {
+    "mi": 41.231583387599876,
+    "rank": "A"
+  },
+  "tests/unit/core/test_target_catalog_owner_invariant.py": {
+    "mi": 33.028764948530686,
+    "rank": "A"
+  },
+  "tests/unit/core/test_target_resolution_v2.py": {
+    "mi": 47.74809572918587,
+    "rank": "A"
+  },
+  "tests/unit/core/test_auth_phase3.py": {
+    "mi": 11.009883325480256,
+    "rank": "B"
+  },
+  "tests/unit/core/test_deployment_state.py": {
+    "mi": 11.877123191551728,
+    "rank": "B"
+  },
+  "tests/unit/core/test_install_audit.py": {
+    "mi": 40.37643316789637,
+    "rank": "A"
+  },
+  "tests/unit/core/test_git_transport_policy.py": {
+    "mi": 9.240525543183844,
+    "rank": "B"
+  },
+  "tests/unit/core/test_build_orchestrator.py": {
+    "mi": 19.21645880395807,
+    "rank": "A"
+  },
+  "tests/unit/core/test_script_trust.py": {
+    "mi": 37.902480172771256,
+    "rank": "A"
+  },
+  "tests/unit/core/test_tls_trust.py": {
+    "mi": 32.76653142340536,
+    "rank": "A"
+  },
+  "tests/unit/core/test_script_executors.py": {
+    "mi": 22.71358203050437,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_cache_command.py": {
+    "mi": 54.92372008023355,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_pack_cli_surface.py": {
+    "mi": 16.3429573122699,
+    "rank": "B"
+  },
+  "tests/unit/commands/test_lifecycle.py": {
+    "mi": 36.48515631608693,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_run_phase3.py": {
+    "mi": 37.3242229822022,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_install_context_and_resolution.py": {
+    "mi": 31.352400302108514,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_uninstall_lockfile_state.py": {
+    "mi": 49.27649722634001,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_publish_registry_archive.py": {
+    "mi": 36.56463674689572,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_marketplace_coverage.py": {
+    "mi": 49.8636006894389,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_approve_deny.py": {
+    "mi": 23.221352390101362,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_lock_export_command.py": {
+    "mi": 48.704705134088556,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_lock_command.py": {
+    "mi": 52.36723480793014,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_install_error_handling.py": {
+    "mi": 36.793632635702025,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_install_phase3w4.py": {
+    "mi": 36.793632635702025,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_deps_cli_helpers.py": {
+    "mi": 37.305433987431606,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_deps_cli_branch_coverage.py": {
+    "mi": 30.722067032542924,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_pack_phase3.py": {
+    "mi": 26.258843919641155,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_helpers_version.py": {
+    "mi": 67.96840832374625,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_plugin_init_command.py": {
+    "mi": 24.59100898195184,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_install_resolve_refs.py": {
+    "mi": 33.85201971581563,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_marketplace_check.py": {
+    "mi": 28.249365992523852,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_audit_phase3.py": {
+    "mi": 27.226351215238825,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_deps_cli_phase3w4.py": {
+    "mi": 29.55134222021462,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_marketplace_migrate.py": {
+    "mi": 45.62005862300319,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_update_command.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/commands/test_unpack_deprecation.py": {
+    "mi": 72.8062528057697,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_deps_cli_cli_surface.py": {
+    "mi": 25.09134981954181,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_marketplace_init.py": {
+    "mi": 47.64847202779149,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_targets_command.py": {
+    "mi": 38.894717057910455,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_marketplace_doctor.py": {
+    "mi": 17.356800220920523,
+    "rank": "B"
+  },
+  "tests/unit/commands/test_find_cli_surface.py": {
+    "mi": 46.534950616746734,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_audit_error_handling.py": {
+    "mi": 27.226351215238825,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_pack_cli_flags.py": {
+    "mi": 29.9424446662481,
+    "rank": "A"
+  },
+  "tests/unit/commands/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_experimental_command.py": {
+    "mi": 19.25542473751025,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_self_update_air_gapped.py": {
+    "mi": 14.083930967885395,
+    "rank": "B"
+  },
+  "tests/unit/commands/test_policy_status.py": {
+    "mi": 18.98734204700871,
+    "rank": "B"
+  },
+  "tests/unit/commands/test_doctor.py": {
+    "mi": 61.603949203307195,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_install_context.py": {
+    "mi": 49.44852248556623,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_marketplace_outdated.py": {
+    "mi": 37.22378978187328,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_install_skill_subset.py": {
+    "mi": 55.74478631196432,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_uninstall_atomic_selection.py": {
+    "mi": 14.970230509343397,
+    "rank": "B"
+  },
+  "tests/unit/commands/test_run_command_surface.py": {
+    "mi": 37.3242229822022,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_deps_cli_phase3.py": {
+    "mi": 28.534618323491035,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_helpers_coverage.py": {
+    "mi": 44.52241795366294,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_pack.py": {
+    "mi": 32.240399242157515,
+    "rank": "A"
+  },
+  "tests/unit/commands/conftest.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_publish_cli_surface.py": {
+    "mi": 83.30734544043096,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_install_phase3.py": {
+    "mi": 32.50407738567383,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_marketplace_plugin.py": {
+    "mi": 20.863459605252093,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_find_reverse_index.py": {
+    "mi": 40.50039625069377,
+    "rank": "A"
+  },
+  "tests/unit/commands/test_deps_alias_readers.py": {
+    "mi": 35.107848747316396,
+    "rank": "A"
+  },
+  "tests/unit/commands/compile/test_watch_mode_coverage.py": {
+    "mi": 52.80094564536884,
+    "rank": "A"
+  },
+  "tests/unit/commands/compile/test_watch_live_reload_and_clean_warning.py": {
+    "mi": 64.63954695240683,
+    "rank": "A"
+  },
+  "tests/unit/commands/compile/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/commands/compile/test_watch_target_forwarding.py": {
+    "mi": 74.47048999888526,
+    "rank": "A"
+  },
+  "tests/unit/commands/deps/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/commands/deps/test_why_command.py": {
+    "mi": 43.56249390638486,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_skill_transformer.py": {
+    "mi": 54.98864334551047,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_prompt_integrator.py": {
+    "mi": 34.53891724538663,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_agent_integrator.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_hook_event_normalization.py": {
+    "mi": 34.93554378701788,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_hook_target_selection.py": {
+    "mi": 50.94006968162319,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_targets_registry_completeness.py": {
+    "mi": 68.98026759329541,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_targets.py": {
+    "mi": 8.11338526569571,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_hook_integrator.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_sync_integration_url_normalization.py": {
+    "mi": 58.51233926317937,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_opencode_frontmatter_validation.py": {
+    "mi": 35.18925213139711,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_base_integrator.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_antigravity_target.py": {
+    "mi": 33.524073592203884,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_skill_integrator_phase3w4.py": {
+    "mi": 23.918755321906595,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_hook_integrator_defect_regression.py": {
+    "mi": 12.431443593721001,
+    "rank": "B"
+  },
+  "tests/unit/integration/test_hook_integrator_issue1892.py": {
+    "mi": 34.47287524946777,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_scope_install_uninstall.py": {
+    "mi": 3.016373322800595,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_copilot_app_schedule.py": {
+    "mi": 52.337604747404264,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_dep_target_intersection.py": {
+    "mi": 34.84912508728861,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_copilot_app_project.py": {
+    "mi": 43.54501565701349,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_cursor_hook_native_contract.py": {
+    "mi": 23.914127466363052,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_copilot_cowork_target.py": {
+    "mi": 33.73408557535382,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_skill_integrator_cowork.py": {
+    "mi": 53.08255283078888,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_utils.py": {
+    "mi": 55.138882237632146,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_hook_file_routing_combined_stems.py": {
+    "mi": 46.94997166330634,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_mcp_integrator.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_hook_naked_format.py": {
+    "mi": 63.66418562671049,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_mcp_registry_parallel.py": {
+    "mi": 65.01270360856063,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_symlink_rejection.py": {
+    "mi": 61.69429837087774,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_mcp_per_dep_registry.py": {
+    "mi": 49.51459598479495,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_skill_integrator.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_windsurf_uninstall_skills.py": {
+    "mi": 65.58637147184795,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_canvas_integrator.py": {
+    "mi": 32.88868314140083,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_integration_wiring_invariants.py": {
+    "mi": 73.81688567084866,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_scope_integration.py": {
+    "mi": 20.095667617711033,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_instruction_integrator.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_hook_integrator_reconcile_dropped_targets.py": {
+    "mi": 54.15821592239027,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_copilot_cowork_paths.py": {
+    "mi": 34.45864947561616,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_hook_diagnostics.py": {
+    "mi": 43.57949138196713,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_command_integrator.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_copilot_app_error_ux.py": {
+    "mi": 50.073910143983944,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_deployed_files_manifest.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_data_driven_dispatch.py": {
+    "mi": 8.99736346427548,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_skill_integrator_hermetic.py": {
+    "mi": 15.36662618740909,
+    "rank": "B"
+  },
+  "tests/unit/integration/test_cleanup_skill_dirs.py": {
+    "mi": 37.71731789621372,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_check_collision.py": {
+    "mi": 62.6107014180144,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_content_identical_adopt.py": {
+    "mi": 33.406799153938486,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_copilot_app_ws.py": {
+    "mi": 41.46596918676579,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_cleanup_helper.py": {
+    "mi": 40.89683798933538,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_copilot_app_target.py": {
+    "mi": 57.379676527870046,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_mcp_config_view.py": {
+    "mi": 16.380212290231345,
+    "rank": "B"
+  },
+  "tests/unit/integration/test_skill_ownership_snapshot.py": {
+    "mi": 3.5547971831063983,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_hook_target_deprecation.py": {
+    "mi": 42.79114153029719,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_copilot_app_db.py": {
+    "mi": 34.92900193509608,
+    "rank": "A"
+  },
+  "tests/unit/integration/test_lsp_integrator.py": {
+    "mi": 8.388573665531862,
+    "rank": "C"
+  },
+  "tests/unit/integration/test_kiro_target.py": {
+    "mi": 13.603653148959074,
+    "rank": "B"
+  },
+  "tests/unit/copilot_plugins/test_pr2705_ergonomics_units.py": {
+    "mi": 58.792074006733735,
+    "rank": "A"
+  },
+  "tests/unit/copilot_plugins/test_install_lifecycle.py": {
+    "mi": 18.750629192235873,
+    "rank": "B"
+  },
+  "tests/unit/copilot_plugins/test_pr2705_ergonomics.py": {
+    "mi": 60.48209665175823,
+    "rank": "A"
+  },
+  "tests/unit/copilot_plugins/test_capability.py": {
+    "mi": 60.17811359035257,
+    "rank": "A"
+  },
+  "tests/unit/copilot_plugins/_builders.py": {
+    "mi": 51.290016317763026,
+    "rank": "A"
+  },
+  "tests/unit/copilot_plugins/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/copilot_plugins/test_pr2705_folds.py": {
+    "mi": 37.318855457905144,
+    "rank": "A"
+  },
+  "tests/unit/copilot_plugins/test_registrar.py": {
+    "mi": 22.160533089033645,
+    "rank": "A"
+  },
+  "tests/unit/adapters/test_v01_variables_process_arguments.py": {
+    "mi": 67.32328576359423,
+    "rank": "A"
+  },
+  "tests/unit/adapters/test_noncontainer_launcher_args.py": {
+    "mi": 24.65674262891911,
+    "rank": "A"
+  },
+  "tests/unit/adapters/test_hermes_client_adapter.py": {
+    "mi": 44.95061395803738,
+    "rank": "A"
+  },
+  "tests/unit/adapters/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/adapters/test_vscode_docker_runtime_args.py": {
+    "mi": 56.96208908756355,
+    "rank": "A"
+  },
+  "tests/unit/adapters/test_oci_docker_launcher.py": {
+    "mi": 47.77064673301379,
+    "rank": "A"
+  },
+  "tests/unit/adapters/test_vscode_v01_value_runtime_args.py": {
+    "mi": 41.10818165035649,
+    "rank": "A"
+  },
+  "tests/unit/utils/test_has_aliases.py": {
+    "mi": 73.88649337132246,
+    "rank": "A"
+  },
+  "tests/unit/utils/test_github_host_predicate.py": {
+    "mi": 81.30182286138172,
+    "rank": "A"
+  },
+  "tests/unit/utils/test_git_sparse.py": {
+    "mi": 64.5061584762011,
+    "rank": "A"
+  },
+  "tests/unit/utils/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/utils/test_patterns.py": {
+    "mi": 23.083328609478126,
+    "rank": "A"
+  },
+  "tests/unit/utils/test_archive.py": {
+    "mi": 30.618633875515957,
+    "rank": "A"
+  },
+  "tests/unit/utils/test_paths.py": {
+    "mi": 59.11467542423587,
+    "rank": "A"
+  },
+  "tests/unit/utils/test_net.py": {
+    "mi": 72.86884816770376,
+    "rank": "A"
+  },
+  "tests/unit/utils/test_frontmatter_horizontal_rules.py": {
+    "mi": 53.944050179848,
+    "rank": "A"
+  },
+  "tests/unit/utils/test_atomic_io.py": {
+    "mi": 48.670451953836704,
+    "rank": "A"
+  },
+  "tests/unit/utils/test_guards.py": {
+    "mi": 45.59003569138758,
+    "rank": "A"
+  },
+  "tests/unit/models/test_dependency_reference_semver_routing.py": {
+    "mi": 65.12740134901651,
+    "rank": "A"
+  },
+  "tests/unit/models/test_dependency_materialization.py": {
+    "mi": 24.206864644056395,
+    "rank": "A"
+  },
+  "tests/unit/models/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/models/test_dependency_uninstall_selection.py": {
+    "mi": 42.776562507961565,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_url_normalize.py": {
+    "mi": 61.66343431995924,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_git_symlink_config.py": {
+    "mi": 43.013702097889905,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_cache_cli.py": {
+    "mi": 41.65226148844909,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_cleanup.py": {
+    "mi": 37.61338067490802,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_locking.py": {
+    "mi": 44.40304240556843,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_git_cache_hardening.py": {
+    "mi": 52.39500088763297,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_git_cache.py": {
+    "mi": 33.01942763375135,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_git_symlink_precedence.py": {
+    "mi": 69.4458918400094,
+    "rank": "A"
+  },
+  "tests/unit/cache/__init__.py": {
+    "mi": 52.57476469559247,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_git_cache_autocrlf.py": {
+    "mi": 40.62265814265721,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_http_cache.py": {
+    "mi": 40.12228020522933,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_git_cache_recency.py": {
+    "mi": 38.598066438061316,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_proxy_compat.py": {
+    "mi": 74.82054846414145,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_git_cache_sparse.py": {
+    "mi": 25.918862666274876,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_prune_age_validation.py": {
+    "mi": 51.38481169016093,
+    "rank": "A"
+  },
+  "tests/unit/cache/test_git_env.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/agent_plugins/test_package_projection.py": {
+    "mi": 18.948098702363094,
+    "rank": "B"
+  },
+  "tests/unit/agent_plugins/test_loader.py": {
+    "mi": 1.088332392829528,
+    "rank": "C"
+  },
+  "tests/unit/marketplace/test_marketplace_commands_phase3.py": {
+    "mi": 10.8357556729625,
+    "rank": "B"
+  },
+  "tests/unit/marketplace/test_shadow_detector.py": {
+    "mi": 54.499757329485654,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_resolver_local_git.py": {
+    "mi": 61.131765454362025,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_yml_editor.py": {
+    "mi": 38.07579734215347,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_marketplace_commands_surface.py": {
+    "mi": 9.093810455031988,
+    "rank": "B"
+  },
+  "tests/unit/marketplace/test_marketplace_client.py": {
+    "mi": 12.290685106535165,
+    "rank": "B"
+  },
+  "tests/unit/marketplace/test_metadata_enrichment.py": {
+    "mi": 25.357955969584722,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_marketplace_validator.py": {
+    "mi": 37.36097970369863,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_marketplace_errors.py": {
+    "mi": 61.53508645423698,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_version_check.py": {
+    "mi": 20.435040250199478,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_marketplace_commands.py": {
+    "mi": 8.032827534351245,
+    "rank": "C"
+  },
+  "tests/unit/marketplace/test_migration_detection.py": {
+    "mi": 52.84221728649801,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_version_pins.py": {
+    "mi": 46.01498313332923,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_legacy_migration.py": {
+    "mi": 65.84145945589094,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_parser.py": {
+    "mi": 41.69339170140229,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_init_template.py": {
+    "mi": 61.5826057148995,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_lockfile_provenance.py": {
+    "mi": 22.73469836098145,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_builder_logging.py": {
+    "mi": 50.463855569671814,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_ref_resolver.py": {
+    "mi": 0.48848758023713335,
+    "rank": "C"
+  },
+  "tests/unit/marketplace/test_marketplace_source_base.py": {
+    "mi": 27.130133501665192,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_registry_integration.py": {
+    "mi": 69.13387511135164,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_local_path_compose.py": {
+    "mi": 31.000480268269822,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_migrate_command.py": {
+    "mi": 58.73818741315625,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_builder_json.py": {
+    "mi": 49.74245665023206,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_outputs_map_form.py": {
+    "mi": 45.02929419730723,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_auth_helpers.py": {
+    "mi": 51.49608639881446,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_marketplace_registry.py": {
+    "mi": 50.64959998998447,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_tag_pattern.py": {
+    "mi": 28.111752006798046,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_builder.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/marketplace/test_marketplace_resolver.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/marketplace/test_git_stderr.py": {
+    "mi": 38.87340614747219,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_apm_yml_marketplace_loader.py": {
+    "mi": 27.801205548486994,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_shared.py": {
+    "mi": 54.261941180802744,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_version_resolver.py": {
+    "mi": 34.078212679773195,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_git_utils.py": {
+    "mi": 54.21364309504627,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_drift_check.py": {
+    "mi": 46.57856607616955,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_marketplace_audit.py": {
+    "mi": 14.693521799321603,
+    "rank": "B"
+  },
+  "tests/unit/marketplace/test_schema_conformance.py": {
+    "mi": 51.61054706549096,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_yml_schema.py": {
+    "mi": 8.828467308339766,
+    "rank": "C"
+  },
+  "tests/unit/marketplace/test_builder_security.py": {
+    "mi": 63.751203461823394,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_name_sanitisation.py": {
+    "mi": 62.06946838228269,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_versioned_resolver.py": {
+    "mi": 47.414238418565155,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_marketplace_models.py": {
+    "mi": 12.694921335817858,
+    "rank": "B"
+  },
+  "tests/unit/marketplace/test_output_profiles.py": {
+    "mi": 58.93290647535939,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_io.py": {
+    "mi": 59.08584934027223,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_client_git.py": {
+    "mi": 37.0364866215675,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/conftest.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_marketplace_install_integration.py": {
+    "mi": 33.84171009634575,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_client_local.py": {
+    "mi": 53.90436681174889,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_client_ado.py": {
+    "mi": 41.49219223467758,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_review_fixes.py": {
+    "mi": 64.12344000552245,
+    "rank": "A"
+  },
+  "tests/unit/marketplace/test_semver.py": {
+    "mi": 32.09658183077603,
+    "rank": "A"
+  },
+  "tests/unit/install/test_staging_path_guard.py": {
+    "mi": 49.641953995233095,
+    "rank": "A"
+  },
+  "tests/unit/install/test_resolve_strategy_selection.py": {
+    "mi": 37.73032358065618,
+    "rank": "A"
+  },
+  "tests/unit/install/test_workspace_locking.py": {
+    "mi": 39.58716760247882,
+    "rank": "A"
+  },
+  "tests/unit/install/test_artifactory_resolver.py": {
+    "mi": 62.55271889869427,
+    "rank": "A"
+  },
+  "tests/unit/install/test_install_cmd_auth_rendering.py": {
+    "mi": 74.18606815546978,
+    "rank": "A"
+  },
+  "tests/unit/install/test_architecture_invariants.py": {
+    "mi": 25.339270652761883,
+    "rank": "A"
+  },
+  "tests/unit/install/test_validation_strict_transport.py": {
+    "mi": 39.39985529024225,
+    "rank": "A"
+  },
+  "tests/unit/install/test_install_transaction.py": {
+    "mi": 12.947152634930333,
+    "rank": "B"
+  },
+  "tests/unit/install/test_policy_target_check_phase.py": {
+    "mi": 46.90743079987429,
+    "rank": "A"
+  },
+  "tests/unit/install/test_integrate_phase3w5.py": {
+    "mi": 33.88156205887617,
+    "rank": "A"
+  },
+  "tests/unit/install/test_security_scan_scope.py": {
+    "mi": 19.484355767851213,
+    "rank": "A"
+  },
+  "tests/unit/install/test_resolution_transactionality.py": {
+    "mi": 44.165613278440595,
+    "rank": "A"
+  },
+  "tests/unit/install/test_mcp_args.py": {
+    "mi": 61.61876975693712,
+    "rank": "A"
+  },
+  "tests/unit/install/test_manifest_reconcile_dropped_hook_targets.py": {
+    "mi": 68.91084373372499,
+    "rank": "A"
+  },
+  "tests/unit/install/test_mcp_integrator_install_flow.py": {
+    "mi": 45.05984591349448,
+    "rank": "A"
+  },
+  "tests/unit/install/test_resolution_staging_relocate.py": {
+    "mi": 43.333712797730705,
+    "rank": "A"
+  },
+  "tests/unit/install/test_install_copilot_user_instructions.py": {
+    "mi": 42.4891189713178,
+    "rank": "A"
+  },
+  "tests/unit/install/test_resolve_registry.py": {
+    "mi": 43.369757545205395,
+    "rank": "A"
+  },
+  "tests/unit/install/test_validation_proxy.py": {
+    "mi": 53.24130990306305,
+    "rank": "A"
+  },
+  "tests/unit/install/test_transitive_mcp_policy.py": {
+    "mi": 55.363882212973024,
+    "rank": "A"
+  },
+  "tests/unit/install/test_mcp_integrator_install_phase3.py": {
+    "mi": 56.80410457970198,
+    "rank": "A"
+  },
+  "tests/unit/install/test_resolve_phase3.py": {
+    "mi": 36.916494643928544,
+    "rank": "A"
+  },
+  "tests/unit/install/test_sources_classification.py": {
+    "mi": 86.54371878047603,
+    "rank": "A"
+  },
+  "tests/unit/install/test_cached_semver_rebuild.py": {
+    "mi": 74.55588113633651,
+    "rank": "A"
+  },
+  "tests/unit/install/test_pipeline_auth_preflight.py": {
+    "mi": 40.189688809248096,
+    "rank": "A"
+  },
+  "tests/unit/install/test_owned_mcp_integration.py": {
+    "mi": 44.8814645253878,
+    "rank": "A"
+  },
+  "tests/unit/install/test_short_sha.py": {
+    "mi": 86.22491122933084,
+    "rank": "A"
+  },
+  "tests/unit/install/test_install_safety.py": {
+    "mi": 49.64074196459682,
+    "rank": "A"
+  },
+  "tests/unit/install/test_security_scan_helper.py": {
+    "mi": 51.139093322583385,
+    "rank": "A"
+  },
+  "tests/unit/install/test_pipeline_phase3.py": {
+    "mi": 49.89901142858394,
+    "rank": "A"
+  },
+  "tests/unit/install/test_finalize_phase.py": {
+    "mi": 45.64922259446878,
+    "rank": "A"
+  },
+  "tests/unit/install/test_legacy_plugin_compat.py": {
+    "mi": 23.006015912431163,
+    "rank": "A"
+  },
+  "tests/unit/install/test_install_local_bundle.py": {
+    "mi": 17.41182226612761,
+    "rank": "B"
+  },
+  "tests/unit/install/test_mcp_conflicts.py": {
+    "mi": 56.10373162573197,
+    "rank": "A"
+  },
+  "tests/unit/install/test_mcp_registry_config_layer.py": {
+    "mi": 55.87433879549083,
+    "rank": "A"
+  },
+  "tests/unit/install/test_policy_gate_phase.py": {
+    "mi": 28.689572532163442,
+    "rank": "A"
+  },
+  "tests/unit/install/test_mcp_lookup_heartbeat.py": {
+    "mi": 83.20535165674386,
+    "rank": "A"
+  },
+  "tests/unit/install/test_lsp_integration.py": {
+    "mi": 23.11611985208318,
+    "rank": "A"
+  },
+  "tests/unit/install/test_validation_error_handling.py": {
+    "mi": 31.821869589630186,
+    "rank": "A"
+  },
+  "tests/unit/install/test_skill_path_migration.py": {
+    "mi": 33.51781199842608,
+    "rank": "A"
+  },
+  "tests/unit/install/test_validation_credential_env.py": {
+    "mi": 68.15944762616196,
+    "rank": "A"
+  },
+  "tests/unit/install/test_unix_install_ownership.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/install/test_dry_run_policy.py": {
+    "mi": 35.84612720085655,
+    "rank": "A"
+  },
+  "tests/unit/install/test_drift_detection.py": {
+    "mi": 26.882558210000205,
+    "rank": "A"
+  },
+  "tests/unit/install/test_noop_summary.py": {
+    "mi": 42.63853051583914,
+    "rank": "A"
+  },
+  "tests/unit/install/test_lifecycle_trust_gate.py": {
+    "mi": 53.5095810597991,
+    "rank": "A"
+  },
+  "tests/unit/install/test_drift_perf.py": {
+    "mi": 71.15946414872009,
+    "rank": "A"
+  },
+  "tests/unit/install/test_registry_wiring.py": {
+    "mi": 42.75027198760737,
+    "rank": "A"
+  },
+  "tests/unit/install/test_install_logger_policy.py": {
+    "mi": 8.131392729561272,
+    "rank": "C"
+  },
+  "tests/unit/install/test_agent_plugin_deployment_boundary.py": {
+    "mi": 11.237216368325731,
+    "rank": "B"
+  },
+  "tests/unit/install/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/install/test_template_exec_trust.py": {
+    "mi": 60.32647269415286,
+    "rank": "A"
+  },
+  "tests/unit/install/test_sources_materialisation.py": {
+    "mi": 18.360762810122885,
+    "rank": "B"
+  },
+  "tests/unit/install/test_validation_ado_bearer.py": {
+    "mi": 42.59256621342248,
+    "rank": "A"
+  },
+  "tests/unit/install/test_branch_ref_drift.py": {
+    "mi": 45.968231312020336,
+    "rank": "A"
+  },
+  "tests/unit/install/test_install_local_bundle_issue1207.py": {
+    "mi": 32.46661076952636,
+    "rank": "A"
+  },
+  "tests/unit/install/test_validation_phase3.py": {
+    "mi": 37.31108467891152,
+    "rank": "A"
+  },
+  "tests/unit/install/test_frozen_roots.py": {
+    "mi": 43.8194034334837,
+    "rank": "A"
+  },
+  "tests/unit/install/test_services_branches.py": {
+    "mi": 29.509093607824518,
+    "rank": "A"
+  },
+  "tests/unit/install/test_validation_rate_limit.py": {
+    "mi": 72.33348693877036,
+    "rank": "A"
+  },
+  "tests/unit/install/test_phase_timing.py": {
+    "mi": 61.84516126541395,
+    "rank": "A"
+  },
+  "tests/unit/install/test_validation_gitlab_ssh.py": {
+    "mi": 73.17570456970965,
+    "rank": "A"
+  },
+  "tests/unit/install/test_gitignore_scope_guard.py": {
+    "mi": 66.17691524325014,
+    "rank": "A"
+  },
+  "tests/unit/install/test_file_scanner.py": {
+    "mi": 61.19579374450414,
+    "rank": "A"
+  },
+  "tests/unit/install/test_services_hook_scope.py": {
+    "mi": 76.07624313224342,
+    "rank": "A"
+  },
+  "tests/unit/install/test_target_contraction_logging.py": {
+    "mi": 55.76892447611551,
+    "rank": "A"
+  },
+  "tests/unit/install/test_plan.py": {
+    "mi": 18.575934038057163,
+    "rank": "B"
+  },
+  "tests/unit/install/test_resolve_resolution_paths.py": {
+    "mi": 39.13017203561752,
+    "rank": "A"
+  },
+  "tests/unit/install/test_skill_subset_deploy_parity.py": {
+    "mi": 45.36771416651551,
+    "rank": "A"
+  },
+  "tests/unit/install/test_git_semver_wiring.py": {
+    "mi": 37.40954700645246,
+    "rank": "A"
+  },
+  "tests/unit/install/test_mcp_ownership.py": {
+    "mi": 53.08148345669556,
+    "rank": "A"
+  },
+  "tests/unit/install/test_dry_run_render.py": {
+    "mi": 31.079754311553806,
+    "rank": "A"
+  },
+  "tests/unit/install/test_resolve_spec_drift.py": {
+    "mi": 62.97025854793995,
+    "rank": "A"
+  },
+  "tests/unit/install/test_resolve_phase3w5.py": {
+    "mi": 42.51340162582248,
+    "rank": "A"
+  },
+  "tests/unit/install/test_install_target_copilot_cowork_e2e.py": {
+    "mi": 55.52574718168668,
+    "rank": "A"
+  },
+  "tests/unit/install/test_windows_shim_template.py": {
+    "mi": 71.01208561187772,
+    "rank": "A"
+  },
+  "tests/unit/install/test_gitlab_resolver.py": {
+    "mi": 54.00843672489855,
+    "rank": "A"
+  },
+  "tests/unit/install/test_direct_dep_failure.py": {
+    "mi": 63.883211373081814,
+    "rank": "A"
+  },
+  "tests/unit/install/test_drift_auto_create.py": {
+    "mi": 73.17078408201722,
+    "rank": "A"
+  },
+  "tests/unit/install/test_install_target_copilot_app_e2e.py": {
+    "mi": 39.88887787210278,
+    "rank": "A"
+  },
+  "tests/unit/install/test_command_logger_elapsed.py": {
+    "mi": 75.52313761933021,
+    "rank": "A"
+  },
+  "tests/unit/install/test_cached_source_lockfile_only.py": {
+    "mi": 73.25531969448184,
+    "rank": "A"
+  },
+  "tests/unit/install/test_drift.py": {
+    "mi": 28.657484492873706,
+    "rank": "A"
+  },
+  "tests/unit/install/test_service.py": {
+    "mi": 46.6830586951688,
+    "rank": "A"
+  },
+  "tests/unit/install/test_mcp_optional_inputs.py": {
+    "mi": 43.33504558831185,
+    "rank": "A"
+  },
+  "tests/unit/install/test_resolving_heartbeat.py": {
+    "mi": 87.1811159760281,
+    "rank": "A"
+  },
+  "tests/unit/install/test_local_content_symlink_deref.py": {
+    "mi": 45.123701516912426,
+    "rank": "A"
+  },
+  "tests/unit/install/test_mcp_integration_extraction.py": {
+    "mi": 44.96298123222648,
+    "rank": "A"
+  },
+  "tests/unit/install/test_integrate_orchestration.py": {
+    "mi": 38.77980986815841,
+    "rank": "A"
+  },
+  "tests/unit/install/test_services_phase3.py": {
+    "mi": 28.077911146898646,
+    "rank": "A"
+  },
+  "tests/unit/install/test_pipeline_auth_preflight_env_leak.py": {
+    "mi": 54.085161863150404,
+    "rank": "A"
+  },
+  "tests/unit/install/test_mcp_registry_module.py": {
+    "mi": 16.518751284705072,
+    "rank": "B"
+  },
+  "tests/unit/install/test_pipeline_ownership_snapshot.py": {
+    "mi": 8.811343443199052,
+    "rank": "C"
+  },
+  "tests/unit/install/test_root_redirect.py": {
+    "mi": 63.93167982777972,
+    "rank": "A"
+  },
+  "tests/unit/install/test_user_scope_rejection_reason.py": {
+    "mi": 67.10704854634147,
+    "rank": "A"
+  },
+  "tests/unit/install/test_no_policy_flag.py": {
+    "mi": 32.528317692599984,
+    "rank": "A"
+  },
+  "tests/unit/install/test_summary.py": {
+    "mi": 51.5375611874378,
+    "rank": "A"
+  },
+  "tests/unit/install/test_services.py": {
+    "mi": 31.1351650347539,
+    "rank": "A"
+  },
+  "tests/unit/install/test_frozen.py": {
+    "mi": 43.92932183847605,
+    "rank": "A"
+  },
+  "tests/unit/install/test_validation_transient_probe.py": {
+    "mi": 37.8041153591971,
+    "rank": "A"
+  },
+  "tests/unit/install/test_package_resolution_persistence.py": {
+    "mi": 59.618499659496145,
+    "rank": "A"
+  },
+  "tests/unit/install/test_cached_label.py": {
+    "mi": 79.60368058422671,
+    "rank": "A"
+  },
+  "tests/unit/install/conftest.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/install/test_services_rendering.py": {
+    "mi": 45.02728157943302,
+    "rank": "A"
+  },
+  "tests/unit/install/test_drift_phase3.py": {
+    "mi": 28.765721111883728,
+    "rank": "A"
+  },
+  "tests/unit/install/test_pipeline_preflight.py": {
+    "mi": 48.23464107461627,
+    "rank": "A"
+  },
+  "tests/unit/install/test_errors.py": {
+    "mi": 74.24611215643795,
+    "rank": "A"
+  },
+  "tests/unit/install/test_validation_tls.py": {
+    "mi": 54.13328054034629,
+    "rank": "A"
+  },
+  "tests/unit/install/test_agent_symlink_diagnostics.py": {
+    "mi": 27.351976698546753,
+    "rank": "A"
+  },
+  "tests/unit/install/test_sources_phase3.py": {
+    "mi": 11.77572665686154,
+    "rank": "B"
+  },
+  "tests/unit/install/test_mcp_warnings.py": {
+    "mi": 35.57640445799758,
+    "rank": "A"
+  },
+  "tests/unit/install/test_cache_pin.py": {
+    "mi": 51.546497265833445,
+    "rank": "A"
+  },
+  "tests/unit/install/test_install_pkg_policy_rollback.py": {
+    "mi": 38.35110566892104,
+    "rank": "A"
+  },
+  "tests/unit/install/test_install_exit_owner_invariant.py": {
+    "mi": 38.73261408295942,
+    "rank": "A"
+  },
+  "tests/unit/install/test_mcp_lockfile_determinism.py": {
+    "mi": 10.67737261566291,
+    "rank": "B"
+  },
+  "tests/unit/install/test_mcp_preflight_policy.py": {
+    "mi": 39.96197767412563,
+    "rank": "A"
+  },
+  "tests/unit/install/test_mcp_only_lockfile_creation.py": {
+    "mi": 57.33819208137694,
+    "rank": "A"
+  },
+  "tests/unit/install/test_require_hashes.py": {
+    "mi": 62.736417147618724,
+    "rank": "A"
+  },
+  "tests/unit/install/heals/test_buggy_lockfile_recovery_heal.py": {
+    "mi": 35.65438360913192,
+    "rank": "A"
+  },
+  "tests/unit/install/heals/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/install/heals/test_branch_ref_drift_heal.py": {
+    "mi": 51.645173578107915,
+    "rank": "A"
+  },
+  "tests/unit/install/heals/test_chain_dispatch.py": {
+    "mi": 47.256968601377274,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_cleanup_phase.py": {
+    "mi": 40.28770336199581,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_lockfile_declared_license.py": {
+    "mi": 83.35519466417504,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_resolve_phase_spec_drift.py": {
+    "mi": 64.41420425187539,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_resolve_tui_callbacks.py": {
+    "mi": 87.00765625912875,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_read_yaml_targets_list_form.py": {
+    "mi": 66.79327307953284,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_resolve_seed_from_lockfile.py": {
+    "mi": 55.065884704665436,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_integrate_phase.py": {
+    "mi": 61.31310063669781,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_lockfile_revision_pin_carry.py": {
+    "mi": 66.39276304862715,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_audit_phase.py": {
+    "mi": 59.29192328884362,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_finalize_user_compile.py": {
+    "mi": 31.28746037161591,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_lockfile_cross_package_reconcile.py": {
+    "mi": 70.46067018113546,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_resolve_ref_resolver_reuse.py": {
+    "mi": 20.866024571334023,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_targets_phase.py": {
+    "mi": 41.75521481322183,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_resolve_selective_update_plan.py": {
+    "mi": 60.52953596766112,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_lockfile_orphan_prune.py": {
+    "mi": 63.29163919514637,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_targets_phase_v2.py": {
+    "mi": 52.82759595238685,
+    "rank": "A"
+  },
+  "tests/unit/install/phases/test_lockfile_union.py": {
+    "mi": 14.220445602595507,
+    "rank": "B"
+  },
+  "tests/unit/export/test_sbom_golden.py": {
+    "mi": 72.35339088011455,
+    "rank": "A"
+  },
+  "tests/unit/export/test_sbom.py": {
+    "mi": 54.67409450011183,
+    "rank": "A"
+  },
+  "tests/unit/export/test_spdx.py": {
+    "mi": 71.91442861225406,
+    "rank": "A"
+  },
+  "tests/unit/export/test_declared_license.py": {
+    "mi": 71.7200755798999,
+    "rank": "A"
+  },
+  "tests/unit/export/test_authoring.py": {
+    "mi": 65.68151370943177,
+    "rank": "A"
+  },
+  "tests/unit/export/test_purl.py": {
+    "mi": 56.90486329672082,
+    "rank": "A"
+  },
+  "tests/unit/export/test_lazy_import.py": {
+    "mi": 94.05868989563693,
+    "rank": "A"
+  },
+  "tests/unit/scripts/test_architecture_inventory.py": {
+    "mi": 36.30073901249792,
+    "rank": "A"
+  },
+  "tests/unit/scripts/test_ratchet_baseline.py": {
+    "mi": 69.48753525910641,
+    "rank": "A"
+  },
+  "tests/unit/scripts/test_architecture_registry_conflicts.py": {
+    "mi": 40.36936281821697,
+    "rank": "A"
+  },
+  "tests/unit/scripts/test_check_test_assertions.py": {
+    "mi": 21.323378482064644,
+    "rank": "A"
+  },
+  "tests/unit/scripts/test_architecture_registry.py": {
+    "mi": 28.3877856509983,
+    "rank": "A"
+  },
+  "tests/unit/scripts/test_run_mutation_pilot.py": {
+    "mi": 31.571959655324086,
+    "rank": "A"
+  },
+  "tests/unit/scripts/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/scripts/test_check_exact_test_duplicates.py": {
+    "mi": 20.589020459172023,
+    "rank": "A"
+  },
+  "tests/unit/scripts/test_architecture_runner.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/scripts/test_lifecycle_evidence.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/unit/bundle/test_plugin_exporter_lockfile.py": {
+    "mi": 56.328550001012026,
+    "rank": "A"
+  },
+  "tests/unit/bundle/test_lf_deterministic_writers.py": {
+    "mi": 40.41875413912437,
+    "rank": "A"
+  },
+  "tests/unit/bundle/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/unit/bundle/test_local_bundle.py": {
+    "mi": 17.172623601777822,
+    "rank": "B"
+  },
+  "tests/unit/bundle/test_attest.py": {
+    "mi": 82.15964446483578,
+    "rank": "A"
+  },
+  "tests/unit/bundle/test_plugin_exporter_canvas.py": {
+    "mi": 74.83037418070937,
+    "rank": "A"
+  },
+  "tests/unit/bundle/test_tar_windows_absolute_path.py": {
+    "mi": 54.70426242881152,
+    "rank": "A"
+  },
+  "tests/unit/adopt/test_native_skill_collision.py": {
+    "mi": 34.70973491247885,
+    "rank": "A"
+  },
+  "tests/unit/adopt/test_onboarding.py": {
+    "mi": 7.329234795885032,
+    "rank": "C"
+  },
+  "tests/quality/repository_python_inventory.py": {
+    "mi": 51.12963030275626,
+    "rank": "A"
+  },
+  "tests/quality/test_lifecycle_bug_ledger.py": {
+    "mi": 35.09592154527452,
+    "rank": "A"
+  },
+  "tests/quality/taxonomy_inventory_plugin.py": {
+    "mi": 55.42713219240682,
+    "rank": "A"
+  },
+  "tests/quality/test_quality_baselines.py": {
+    "mi": 36.60648774221314,
+    "rank": "A"
+  },
+  "tests/quality/conftest.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/quality/test_test_taxonomy.py": {
+    "mi": 24.10090275045007,
+    "rank": "A"
+  },
+  "tests/quality/test_ci_topology.py": {
+    "mi": 15.049085329365571,
+    "rank": "B"
+  }
+}
